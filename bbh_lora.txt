@@ -1,0 +1,17 @@
+dataset is /root/autodl-tmp/data/bbh/date_understanding.json, acc is 0.696, score is 0.20414157044887543
+dataset is /root/autodl-tmp/data/bbh/disambiguation_qa.json, acc is 0.4, score is 0.3410836410522461
+dataset is /root/autodl-tmp/data/bbh/geometric_shapes.json, acc is 0.16, score is 0.1158991336748004
+dataset is /root/autodl-tmp/data/bbh/hyperbaton.json, acc is 0.432, score is 0.48587722712755205
+dataset is /root/autodl-tmp/data/bbh/logical_deduction_five_objects.json, acc is 0.224, score is 0.20644604739546776
+dataset is /root/autodl-tmp/data/bbh/logical_deduction_seven_objects.json, acc is 0.172, score is 0.15054228830337524
+dataset is /root/autodl-tmp/data/bbh/logical_deduction_three_objects.json, acc is 0.408, score is 0.3445428057909012
+dataset is /root/autodl-tmp/data/bbh/penguins_in_a_table.json, acc is 0.273972602739726, score is 0.229615955983531
+dataset is /root/autodl-tmp/data/bbh/reasoning_about_colored_objects.json, acc is 0.196, score is 0.14060095340199769
+dataset is /root/autodl-tmp/data/bbh/salient_translation_error_detection.json, acc is 0.14, score is 0.1626844293177128
+dataset is /root/autodl-tmp/data/bbh/snarks.json, acc is 0.5337078651685393, score is 0.5063295796346129
+dataset is /root/autodl-tmp/data/bbh/temporal_sequences.json, acc is 0.18, score is 0.24247225034236908
+dataset is /root/autodl-tmp/data/bbh/tracking_shuffled_objects_five_objects.json, acc is 0.196, score is 0.2013676957041025
+dataset is /root/autodl-tmp/data/bbh/tracking_shuffled_objects_seven_objects.json, acc is 0.116, score is 0.14085202008485795
+dataset is /root/autodl-tmp/data/bbh/tracking_shuffled_objects_three_objects.json, acc is 0.344, score is 0.33862202921509743
+0.25407184183183334
+0.2981120311938844

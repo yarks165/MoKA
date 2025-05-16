@@ -1,0 +1,7342 @@
+测试数据集：csqa
+是否使用知识图谱：True
+基础模型：/root/autodl-tmp/llama2_7B
+Lora权重：/root/autodl-tmp/llama2-lora-moe2
+提示模板：commonsenseQA
+
+平均概率：0.46993177016519305
+准确率：0.6142506142506142
+正确样本数：750
+NOP样本数：0
+总样本数：1221
+
+==================================================
+样本详细测试结果：
+==================================================
+
+样本 1:
+问题: A revolving door is convenient for two direction travel, but it also serves as a security measure at a what?
+预测: mall
+正确答案: bank
+是否正确: False
+
+样本 2:
+问题: What do people aim to do at work?
+预测: talk to each other
+正确答案: complete job
+是否正确: False
+
+样本 3:
+问题: Where would you find magazines along side many other printed works?
+预测: bookstore
+正确答案: bookstore
+是否正确: True
+
+样本 4:
+问题: Where are  you likely to find a hamburger?
+预测: fast food restaurant
+正确答案: fast food restaurant
+是否正确: True
+
+样本 5:
+问题: James was looking for a good place to buy farmland.  Where might he look?
+预测: countryside
+正确答案: midwest
+是否正确: False
+
+样本 6:
+问题: What island country is ferret popular?
+预测: great britain
+正确答案: great britain
+是否正确: True
+
+样本 7:
+问题: In what Spanish speaking North American country can you get a great cup of coffee?
+预测: mexico
+正确答案: mexico
+是否正确: True
+
+样本 8:
+问题: What do animals do when an enemy is approaching?
+预测: listen to each other
+正确答案: listen to each other
+是否正确: True
+
+样本 9:
+问题: Reading newspaper one of many ways to practice your what?
+预测: literacy
+正确答案: literacy
+是否正确: True
+
+样本 10:
+问题: What do people typically do while playing guitar?
+预测: singing
+正确答案: singing
+是否正确: True
+
+样本 11:
+问题: What would vinyl be an odd thing to replace?
+预测: wallpaper
+正确答案: wallpaper
+是否正确: True
+
+样本 12:
+问题: If you want harmony, what is something you should try to do with the world?
+预测: make peace
+正确答案: make peace
+是否正确: True
+
+样本 13:
+问题: Where does a heifer's master live?
+预测: slaughter house
+正确答案: farm house
+是否正确: False
+
+样本 14:
+问题: Aside from water and nourishment what does your dog need?
+预测: lots of attention
+正确答案: lots of attention
+是否正确: True
+
+样本 15:
+问题: Janet was watching the film because she liked what?
+预测: being entertained
+正确答案: being entertained
+是否正确: True
+
+样本 16:
+问题: What are you waiting alongside with when you're in a reception area?
+预测: chair
+正确答案: people
+是否正确: False
+
+样本 17:
+问题: When drinking booze what can you do to stay busy?
+预测: stay in bed
+正确答案: examine thing
+是否正确: False
+
+样本 18:
+问题: A fencing thrust with a sharp sword towards a person would result in what?
+预测: puncture wound
+正确答案: puncture wound
+是否正确: True
+
+样本 19:
+问题: Unlike a spider and his many sight seers, people only have what?
+预测: two eyes
+正确答案: two eyes
+是否正确: True
+
+样本 20:
+问题: Where do adults use glue sticks?
+预测: desk drawer
+正确答案: office
+是否正确: False
+
+样本 21:
+问题: What could go on top of wood?
+预测: carpet
+正确答案: carpet
+是否正确: True
+
+样本 22:
+问题: The artist was sitting quietly pondering, then suddenly he began to paint when what struck him?
+预测: inspiration
+正确答案: inspiration
+是否正确: True
+
+样本 23:
+问题: Though the thin film seemed fragile, for it's intended purpose it was actually nearly what?
+预测: indestructible
+正确答案: indestructible
+是否正确: True
+
+样本 24:
+问题: Where could you find a toilet that only friends can use?
+预测: apartment
+正确答案: apartment
+是否正确: True
+
+样本 25:
+问题: What is someone who isn't clever, bright, or competent called?
+预测: stupid
+正确答案: stupid
+是否正确: True
+
+样本 26:
+问题: When wildlife reproduce we often refer to what comes out as what?
+预测: offspring
+正确答案: offspring
+是否正确: True
+
+样本 27:
+问题: The weasel was becoming a problem, it kept getting into the chicken eggs kept in the what?
+预测: barn
+正确答案: barn
+是否正确: True
+
+样本 28:
+问题: Blue read material outside of his comfort zone because he wanted to gain what?
+预测: understanding
+正确答案: new perspective
+是否正确: False
+
+样本 29:
+问题: After he got hired he hoped for success at his what?
+预测: new job
+正确答案: new job
+是否正确: True
+
+样本 30:
+问题: Committing perjury is a serious what?
+预测: crime
+正确答案: crime
+是否正确: True
+
+样本 31:
+问题: If you are prone to postpone work what will you have to do in order to finish on time?
+预测: hasten
+正确答案: hasten
+是否正确: True
+
+样本 32:
+问题: James wanted to find an old underground map from the 50s.  Where might he look for one?
+预测: county engineer's office
+正确答案: library
+是否正确: False
+
+样本 33:
+问题: Sean was in a rush to get home, but the light turned yellow and he was forced to do what?
+预测: slow down
+正确答案: slow down
+是否正确: True
+
+样本 34:
+问题: Where would a person be doing when having to wait their turn?
+预测: stand in line
+正确答案: stand in line
+是否正确: True
+
+样本 35:
+问题: She was always helping at the senior center, it brought her what?
+预测: satisfaction
+正确答案: happiness
+是否正确: False
+
+样本 36:
+问题: The lock kept the steering wheel from moving, but the thief still took his chances and began to work on the what?
+预测: ignition switch
+正确答案: ignition switch
+是否正确: True
+
+样本 37:
+问题: Who is a police officer likely to work for?
+预测: president
+正确答案: city
+是否正确: False
+
+样本 38:
+问题: If you have leftover cake, where would you put it?
+预测: refrigerator
+正确答案: refrigerator
+是否正确: True
+
+样本 39:
+问题: A human wants to submerge himself in water, what should he use?
+预测: coffee cup
+正确答案: whirlpool bath
+是否正确: False
+
+样本 40:
+问题: Where is a doormat likely to be in front of?
+预测: front door
+正确答案: front door
+是否正确: True
+
+样本 41:
+问题: Bob the lizard lives in a warm place with lots of water.  Where does he probably live?
+预测: tropical rainforest
+正确答案: tropical rainforest
+是否正确: True
+
+样本 42:
+问题: August needed  money because he was afraid that he'd be kicked out of his house.  What did he need money to do?
+预测: buy food
+正确答案: pay bills
+是否正确: False
+
+样本 43:
+问题: He needed more information to fix it, so he consulted the what?
+预测: manual
+正确答案: manual
+是否正确: True
+
+样本 44:
+问题: Where can you put a picture frame when it's not hung vertically?
+预测: newspaper
+正确答案: table
+是否正确: False
+
+样本 45:
+问题: James knew that he shouldn't have been buying beer for minors.  He didn't even get paid for it.  Why was this bad?
+预测: broken law
+正确答案: broken law
+是否正确: True
+
+样本 46:
+问题: What is the result of applying for  job?
+预测: being employed
+正确答案: being employed
+是否正确: True
+
+样本 47:
+问题: What must someone do before they shop?
+预测: bring cash
+正确答案: get money
+是否正确: False
+
+样本 48:
+问题: Because John was first violin, he had to bring something important to work ever day. What did he need to bring to work?
+预测: violin case
+正确答案: violin case
+是否正确: True
+
+样本 49:
+问题: What is a place that usually does not have an elevator and that sometimes has a telephone book?
+预测: library
+正确答案: house
+是否正确: False
+
+样本 50:
+问题: Who is likely to be excited about a crab?
+预测: fishmongers
+正确答案: fishmongers
+是否正确: True
+
+样本 51:
+问题: Where can a human find clothes that aren't pants?
+预测: pants shop
+正确答案: dress shop
+是否正确: False
+
+样本 52:
+问题: If I was getting drunk, and people couldn't understand me, what might I be having?
+预测: slurred speech
+正确答案: slurred speech
+是否正确: True
+
+样本 53:
+问题: When a person is beginning work, what are they building?
+预测: momentum
+正确答案: momentum
+是否正确: True
+
+样本 54:
+问题: A child wants to play, what would they likely want?
+预测: be dismembered by a chainsaw
+正确答案: play tag
+是否正确: False
+
+样本 55:
+问题: Talking to the same person about the same thing over and over again is something someone can what?
+预测: get tired of
+正确答案: get tired of
+是否正确: True
+
+样本 56:
+问题: The teacher doesn't tolerate noise during a test in their what?
+预测: classroom
+正确答案: classroom
+是否正确: True
+
+样本 57:
+问题: The freeway had no traffic and few buildings, where is it?
+预测: countryside
+正确答案: countryside
+是否正确: True
+
+样本 58:
+问题: Where would you go if you wanted to have fun with a few people?
+预测: friend's house
+正确答案: friend's house
+是否正确: True
+
+样本 59:
+问题: If there is a place that is hot and arid, what could it be?
+预测: lifeless
+正确答案: lifeless
+是否正确: True
+
+样本 60:
+问题: What is likely to satisfy someone's curiosity?
+预测: comedy show
+正确答案: hear news
+是否正确: False
+
+样本 61:
+问题: If you are in a bar in a glove shaped state where are you?
+预测: new york city
+正确答案: michigan
+是否正确: False
+
+样本 62:
+问题: Where would a computer user be using their own computer?
+预测: internet cafe
+正确答案: house
+是否正确: False
+
+样本 63:
+问题: Crabs live in what sort of environment?
+预测: saltwater
+正确答案: saltwater
+是否正确: True
+
+样本 64:
+问题: Where can you find a snake in tall grass?
+预测: tropical forest
+正确答案: feild
+是否正确: False
+
+样本 65:
+问题: What is a place that has a bench nestled in trees?
+预测: state park
+正确答案: state park
+是否正确: True
+
+样本 66:
+问题: Where is a human likely to go as a result of being hungry?
+预测: eat in restaurant
+正确答案: eat in restaurant
+是否正确: True
+
+样本 67:
+问题: He was beginning to regret taking the fight when he saw how what his opponent was?
+预测: confident
+正确答案: confident
+是否正确: True
+
+样本 68:
+问题: Where would you find a single shower curtain being used?
+预测: shower stall
+正确答案: bathtub
+是否正确: False
+
+样本 69:
+问题: Where is a good idea but not required to have a fire extinguisher?
+预测: boat
+正确答案: house
+是否正确: False
+
+样本 70:
+问题: What continent has the most castles?
+预测: europe
+正确答案: europe
+是否正确: True
+
+样本 71:
+问题: If you have to read a book that is very dry and long you may become what?
+预测: bored
+正确答案: bored
+是否正确: True
+
+样本 72:
+问题: Sally used a clipboard to hold her papers while she read off names at the beginning of the day.  Where might she work?
+预测: school
+正确答案: school
+是否正确: True
+
+样本 73:
+问题: The kids didn't clean up after they had done what?
+预测: play with toys
+正确答案: play with toys
+是否正确: True
+
+样本 74:
+问题: Despite the name a pawn can be quite versatile, all the parts are important in a what?
+预测: chess game
+正确答案: chess game
+是否正确: True
+
+样本 75:
+问题: What would not be true about a basketball if it had a hole in it but it did not lose its general shape?
+预测: punctured
+正确答案: full of air
+是否正确: False
+
+样本 76:
+问题: If you are awaking multiple times throughout the night because a lot is on your mind, what is a likely cause?
+预测: irritability
+正确答案: depression
+是否正确: False
+
+样本 77:
+问题: Where does a wild bird usually live?
+预测: countryside
+正确答案: countryside
+是否正确: True
+
+样本 78:
+问题: Where would you expect to find white mice?
+预测: countryside
+正确答案: laboratory
+是否正确: False
+
+样本 79:
+问题: John felt that his actions were fate.   Harry said that he could have always made a different what?
+预测: choice
+正确答案: choice
+是否正确: True
+
+样本 80:
+问题: What could committing murder prevent someone from doing?
+预测: go to jail
+正确答案: find god
+是否正确: False
+
+样本 81:
+问题: George didn't have a car, but he still had his two feet.   His socks were smelly and his soles were blistered, but that didn't matter.  He could still do what?
+预测: walk
+正确答案: walk
+是否正确: True
+
+样本 82:
+问题: A crane uses many a steel cable when working a what?
+预测: construction site
+正确答案: construction site
+是否正确: True
+
+样本 83:
+问题: What is the main purpose of farmers?
+预测: supply food
+正确答案: supply food
+是否正确: True
+
+样本 84:
+问题: Where can I put this penny to save for later?
+预测: piggy bank
+正确答案: piggy bank
+是否正确: True
+
+样本 85:
+问题: Where would you put uncooked crab meat?
+预测: stew pot
+正确答案: stew pot
+是否正确: True
+
+样本 86:
+问题: The man had a fear of illness, so he never visited friends who were a what?
+预测: doctor's office
+正确答案: sick person
+是否正确: False
+
+样本 87:
+问题: Where would you put pans if you want to bring them with you?
+预测: drawer
+正确答案: backpack
+是否正确: False
+
+样本 88:
+问题: If you're remembering something, it's because of your what of it to begin with?
+预测: knowledge
+正确答案: knowing
+是否正确: False
+
+样本 89:
+问题: Which large land mass is home to the most monkeys?
+预测: african continent
+正确答案: african continent
+是否正确: True
+
+样本 90:
+问题: Friday was James's 5th Anniversary.  They planned on going to bed early so that they could spend a long time doing what?
+预测: making love
+正确答案: making love
+是否正确: True
+
+样本 91:
+问题: The teens were trying to hide that they get drink, but when they walked in the door their what gave it away?
+预测: vomit
+正确答案: stagger
+是否正确: False
+
+样本 92:
+问题: You'll find a landing at the top of what?
+预测: stairwell
+正确答案: stairwell
+是否正确: True
+
+样本 93:
+问题: Anybody could be hired in the kitchen, what was needed of them?
+预测: wash dishes
+正确答案: wash dishes
+是否正确: True
+
+样本 94:
+问题: Where can you find a number of wind instruments together in public?
+预测: music store
+正确答案: symphony
+是否正确: False
+
+样本 95:
+问题: A mountie got off at a subway stop.  What city might he be in?
+预测: toronto
+正确答案: toronto
+是否正确: True
+
+样本 96:
+问题: What do you want someone to do when you illustrate point?
+预测: make clear
+正确答案: understanding
+是否正确: False
+
+样本 97:
+问题: Billy set aside a block of time for having fun after work. Why might he do this?
+预测: stress relief
+正确答案: stress relief
+是否正确: True
+
+样本 98:
+问题: The man in the white suit was very lazy.  He did nothing useful.  Meanwhile, the ban in the blue had put in effort and was very what?
+预测: productive
+正确答案: productive
+是否正确: True
+
+样本 99:
+问题: What would you be unable to do if you have too much greed?
+预测: play poker
+正确答案: make friends
+是否正确: False
+
+样本 100:
+问题: It was a long trip from the farm, so he stayed in a hotel when he arrived at the what?
+预测: city
+正确答案: city
+是否正确: True
+
+样本 101:
+问题: I did not need a servant.  I was not a what?
+预测: rich person
+正确答案: rich person
+是否正确: True
+
+样本 102:
+问题: How would you get from one side of a canal to another?
+预测: barges to travel on
+正确答案: bridge
+是否正确: False
+
+样本 103:
+问题: When learning about the world and different cultures, what is important if you are committed to eliminating preconceived notions
+预测: enlightenment
+正确答案: open mind
+是否正确: False
+
+样本 104:
+问题: An underrated thing about computers is how they manage workflow, at one time it was a big deal when they could first do what?
+预测: multitask
+正确答案: multitask
+是否正确: True
+
+样本 105:
+问题: Obstructing justice is sometimes an excuse used for police brutality which causes what in people?
+预测: riot
+正确答案: getting hurt
+是否正确: False
+
+样本 106:
+问题: While washing clothes they became what when caught on the sharp object?
+预测: damaged
+正确答案: torn
+是否正确: False
+
+样本 107:
+问题: Seafood restaurants are used to draw tourists where?
+预测: coastal cities
+正确答案: coastal cities
+是否正确: True
+
+样本 108:
+问题: James's nice asked him about her grandfather. She was interested in learning about what?
+预测: family tree
+正确答案: family tree
+是否正确: True
+
+样本 109:
+问题: James looked up and saw the start twinkling in the black yonder.  He marveled the sheer number of them and the size of what?
+预测: night sky
+正确答案: universe
+是否正确: False
+
+样本 110:
+问题: What would encourage someone to continue playing tennis?
+预测: exercise
+正确答案: victory
+是否正确: False
+
+样本 111:
+问题: James found the sound relaxing.   It was so relaxing he almost did what despite his efforts?
+预测: fall asleep
+正确答案: fall asleep
+是否正确: True
+
+样本 112:
+问题: What regions of a town would you have found a dime store?
+预测: commercial building
+正确答案: small neighborhood
+是否正确: False
+
+样本 113:
+问题: Where might an unused chess set be stored?
+预测: living room
+正确答案: cupboard
+是否正确: False
+
+样本 114:
+问题: james told his son to settle down and be careful.  There were many frogs mating in the area, and James didn't want his son to do what to them?
+预测: disturb
+正确答案: disturb
+是否正确: True
+
+样本 115:
+问题: A man wants air conditioning while we watches the game on Saturday, where will it likely be installed?
+预测: offices
+正确答案: house
+是否正确: False
+
+样本 116:
+问题: What could be playing a balailaika?
+预测: orchestra
+正确答案: orchestra
+是否正确: True
+
+样本 117:
+问题: Sailors drive many different types of boats, what type of boat involves their namesake.
+预测: inflatable raft
+正确答案: sail boat
+是否正确: False
+
+样本 118:
+问题: Where could a person avoid the rain?
+预测: fairy tale
+正确答案: synagogue
+是否正确: False
+
+样本 119:
+问题: Why would a person like to have a large house?
+预测: lots of space
+正确答案: lots of space
+是否正确: True
+
+样本 120:
+问题: Where will a cheap book be found?
+预测: bookstore
+正确答案: discount store
+是否正确: False
+
+样本 121:
+问题: John and James are idiots. They bought two tickets to the Falcons vs the Jets even though neither wanted to see the what?
+预测: sporting event
+正确答案: sporting event
+是否正确: True
+
+样本 122:
+问题: James noticed that his penis was bigger. .  How might he act toward his plastic surgeon?
+预测: effusive
+正确答案: effusive
+是否正确: True
+
+样本 123:
+问题: Who do professors work with?
+预测: wear wrinkled tweed jackets
+正确答案: school students
+是否正确: False
+
+样本 124:
+问题: Colorful anemone look somewhat like what object you find on window sills?
+预测: intertidal zone
+正确答案: flower bed
+是否正确: False
+
+样本 125:
+问题: From where do aliens arrive?
+预测: outer space
+正确答案: outer space
+是否正确: True
+
+样本 126:
+问题: The hikers stopped to have a drink, simply put they what?
+预测: were thirsty
+正确答案: were thirsty
+是否正确: True
+
+样本 127:
+问题: When you get up in the morning before you begin work you should do what?
+预测: concentrate
+正确答案: shower
+是否正确: False
+
+样本 128:
+问题: The kitten had nothing to dig it's claws into, so when it tried to stop it slid across what?
+预测: floor
+正确答案: floor
+是否正确: True
+
+样本 129:
+问题: If a person is trying to keep something in their hand what should they do?
+预测: procrastinate
+正确答案: have to hold
+是否正确: False
+
+样本 130:
+问题: Where could you find hundreds of thousands of home?
+预测: neighborhood
+正确答案: city or town
+是否正确: False
+
+样本 131:
+问题: Playing baseball is a lot like any other sport, there is always a risk of what?
+预测: injury
+正确答案: injury
+是否正确: True
+
+样本 132:
+问题: If I want to watch a movie without leaving my home what might I use?
+预测: television
+正确答案: television
+是否正确: True
+
+样本 133:
+问题: The victim was to take stand today, they were going to do what?
+预测: testify
+正确答案: testify
+是否正确: True
+
+样本 134:
+问题: What does a successful dog grooming session likely to make a owner feel?
+预测: satisfaction
+正确答案: satisfaction
+是否正确: True
+
+样本 135:
+问题: The runner was in third place, but he pushed harder and thought he might be able to reach second.  What was beginning to do?
+预测: gain ground
+正确答案: gain ground
+是否正确: True
+
+样本 136:
+问题: The tourist entered Mammoth cave, what state were they in?
+预测: kentucky
+正确答案: kentucky
+是否正确: True
+
+样本 137:
+问题: What does someone typically feel when applying for a job?
+预测: anxiety and fear
+正确答案: anxiety and fear
+是否正确: True
+
+样本 138:
+问题: He was on trial for obstructing justice, during which he made a questionable comment and was also found guilty of what?
+预测: committing perjury
+正确答案: committing perjury
+是否正确: True
+
+样本 139:
+问题: What kind of feelings does buying presents for others create?
+预测: please
+正确答案: make happy
+是否正确: False
+
+样本 140:
+问题: What green area is a marmot likely to be found in?
+预测: countryside
+正确答案: countryside
+是否正确: True
+
+样本 141:
+问题: Jan tested the current, and noticed that it was high.  He thought that the wires might have too much what?
+预测: resistance
+正确答案: resistance
+是否正确: True
+
+样本 142:
+问题: What does a kindergarten teacher do before nap time?
+预测: tell story
+正确答案: tell story
+是否正确: True
+
+样本 143:
+问题: Sam was a stranger.  Even so, Mark treated him like what?
+预测: friend
+正确答案: family
+是否正确: False
+
+样本 144:
+问题: Bob's only light source was a small bulb.  There were four walls, if there was a door he couldn't see it.  What was Bob in?
+预测: closed room
+正确答案: closed room
+是否正确: True
+
+样本 145:
+问题: James thought of criminal justice like a computer program.  It need to work right.   What ideas might James not like?
+预测: power down
+正确答案: control model
+是否正确: False
+
+样本 146:
+问题: With the card slot lit up he knew how to get started finding his balance with what?
+预测: automated teller
+正确答案: automated teller
+是否正确: True
+
+样本 147:
+问题: To play sports professionally you must do what very often?
+预测: practice
+正确答案: practice
+是否正确: True
+
+样本 148:
+问题: Some people prefer releasing energy through work while others prefer to release it through what?
+预测: exercise
+正确答案: exercise
+是否正确: True
+
+样本 149:
+问题: What will a person going for a jog likely be wearing?
+预测: comfortable clothes
+正确答案: comfortable clothes
+是否正确: True
+
+样本 150:
+问题: The child pretended he was reading newspaper, he couldn't actually do it without what?
+预测: knowing how to read
+正确答案: knowing how to read
+是否正确: True
+
+样本 151:
+问题: Jenny enjoyed helping people.  It brought her a great deal of what?
+预测: satisfaction
+正确答案: satisfaction
+是否正确: True
+
+样本 152:
+问题: What might someone believe in if they are cleaning clothes?
+预测: wrinkles
+正确答案: sanitation
+是否正确: False
+
+样本 153:
+问题: Where would you find a basement that can be accessed with an elevator?
+预测: office building
+正确答案: office building
+是否正确: True
+
+样本 154:
+问题: In order to learn to program from another person you can do what?
+预测: learn how to
+正确答案: take class
+是否正确: False
+
+样本 155:
+问题: He was at the gym trying to build muscle, what is it called that he is trying to build muscle on?
+预测: bodybuilder
+正确答案: human body
+是否正确: False
+
+样本 156:
+问题: What part of plants is pretty?
+预测: roots
+正确答案: flowers on
+是否正确: False
+
+样本 157:
+问题: The man was going fishing instead of work, what is he seeking?
+预测: relaxation
+正确答案: relaxation
+是否正确: True
+
+样本 158:
+问题: What could you get an unsmooth pit from?
+预测: peach
+正确答案: peach
+是否正确: True
+
+样本 159:
+问题: The man tried to reply to the woman, but he had difficulty keeping track of conversations that he didn't do what to?
+预测: initiate
+正确答案: initiate
+是否正确: True
+
+样本 160:
+问题: I couldn't find anybody who recalled the event, what were they adroit at doing?
+预测: wash dishes
+正确答案: forget
+是否正确: False
+
+样本 161:
+问题: Where would you find a large dining room containing a fancy chandelier?
+预测: restaurant
+正确答案: mansion
+是否正确: False
+
+样本 162:
+问题: The extremely large cargo plane could only land at a specialized runway, these were only located at a what?
+预测: military base
+正确答案: military base
+是否正确: True
+
+样本 163:
+问题: The carpet was smelly and discouraged the league from playing there, where was this smelly carpet installed?
+预测: bowling alley
+正确答案: bowling alley
+是否正确: True
+
+样本 164:
+问题: How can someone be let into a brownstone?
+预测: new york city
+正确答案: ring
+是否正确: False
+
+样本 165:
+问题: Where would someone purchase an upright piano?
+预测: music store
+正确答案: music store
+是否正确: True
+
+样本 166:
+问题: Where would you keep an ottoman near your front door?
+预测: living room
+正确答案: living room
+是否正确: True
+
+样本 167:
+问题: Diving into backyard pools can be very dangerous and can lead to serious head and what?
+预测: spinal injuries
+正确答案: spinal injuries
+是否正确: True
+
+样本 168:
+问题: Where would one find a snake in a cage?
+预测: pet store
+正确答案: pet store
+是否正确: True
+
+样本 169:
+问题: Where are people likely to become impatient?
+预测: neighbor's house
+正确答案: end of line
+是否正确: False
+
+样本 170:
+问题: When you fail to finish something, you failed at doing what to it
+预测: succeeding
+正确答案: completing
+是否正确: False
+
+样本 171:
+问题: John didn't care about style.  He felt that form was less important than what?
+预测: function
+正确答案: function
+是否正确: True
+
+样本 172:
+问题: When you get together with friends to watch film, you might do plenty of this?
+预测: enjoy stories
+正确答案: have fun
+是否正确: False
+
+样本 173:
+问题: A supermarket is uncommon in what type of collection of shops?
+预测: strip mall
+正确答案: strip mall
+是否正确: True
+
+样本 174:
+问题: Bill puts meat on the scale, where does Bill work?
+预测: butcher shop
+正确答案: butcher shop
+是否正确: True
+
+样本 175:
+问题: I'm having some food at my party, what will I need to serve it?
+预测: bowl
+正确答案: spoon
+是否正确: False
+
+样本 176:
+问题: Before racers start to run they must do what at the starting line?
+预测: stand still
+正确答案: stand still
+是否正确: True
+
+样本 177:
+问题: What does an actor do when they are bored of their roles?
+预测: pretend
+正确答案: branch out
+是否正确: False
+
+样本 178:
+问题: What is a person called who doesn't have immortality?
+预测: mortal
+正确答案: mortal
+是否正确: True
+
+样本 179:
+问题: Why would you be watching tv instead of doing something else?
+预测: wasting time
+正确答案: laziness
+是否正确: False
+
+样本 180:
+问题: If chewing food is difficult for you, what is a possible reason?
+预测: broken jaw
+正确答案: sore mouth
+是否正确: False
+
+样本 181:
+问题: He had to wear a tuxedo while playing the keyboard instrument, so did the other hundred members of the what?
+预测: orchestra
+正确答案: orchestra
+是否正确: True
+
+样本 182:
+问题: Where do you find the most amount of leafs?
+预测: compost pile
+正确答案: forrest
+是否正确: False
+
+样本 183:
+问题: Where can children play with animals?
+预测: zoos
+正确答案: fairgrounds
+是否正确: False
+
+样本 184:
+问题: What kind of tale might feature a talking weasel?
+预测: children's story
+正确答案: children's story
+是否正确: True
+
+样本 185:
+问题: What kind of status is the bald eagle given?
+预测: protection
+正确答案: protection
+是否正确: True
+
+样本 186:
+问题: Why do most people take a quick rest during the day?
+预测: feel more energetic
+正确答案: feel more energetic
+是否正确: True
+
+样本 187:
+问题: What could suddenly stop someone when he or she is running?
+预测: exhaustion
+正确答案: falling down
+是否正确: False
+
+样本 188:
+问题: Where would you find a monkey in the wild?
+预测: captivity
+正确答案: thailand
+是否正确: False
+
+样本 189:
+问题: Where could a sloth live?
+预测: tropical jungle
+正确答案: tropical jungle
+是否正确: True
+
+样本 190:
+问题: A gentleman is carrying equipment for golf, what is he likely to have?
+预测: club
+正确答案: club
+是否正确: True
+
+样本 191:
+问题: If you have a home with a courtyard, what's one thing you probably don't have to care for any longer?
+预测: lawn
+正确答案: lawn
+是否正确: True
+
+样本 192:
+问题: The computer was difficult for he to understand at the store, so what did she sign up for to learn more?
+预测: demonstration
+正确答案: demonstration
+是否正确: True
+
+样本 193:
+问题: If you take the risk buying a used car, you still hope it can what?
+预测: last several years
+正确答案: last several years
+是否正确: True
+
+样本 194:
+问题: Dan was ditting quietly on the couch with a book in his hand.  Laurie thought that he was just focused on what he was doing, but he actually did what?
+预测: fall asleep
+正确答案: fall asleep
+是否正确: True
+
+样本 195:
+问题: What is the primary purpose of cars?
+预测: move people
+正确答案: move people
+是否正确: True
+
+样本 196:
+问题: Alabama is full of different people, but they are all citizens of what?
+预测: united states
+正确答案: united states
+是否正确: True
+
+样本 197:
+问题: They were hoping their campaign would create a rise in awareness of the problem and hopefully do what to its effect?
+预测: reduce
+正确答案: reduce
+是否正确: True
+
+样本 198:
+问题: What do airplanes do as they are arriving at the gate?
+预测: land
+正确答案: slow down
+是否正确: False
+
+样本 199:
+问题: If a person with mental illness stops treatment what will likely happen?
+预测: effectively treated
+正确答案: recur
+是否正确: False
+
+样本 200:
+问题: The gimmicky low brow TV show was about animals when they what?
+预测: mammals
+正确答案: attack
+是否正确: False
+
+样本 201:
+问题: A loud machine is irritating, but many are expected where?
+预测: industrial area
+正确答案: industrial area
+是否正确: True
+
+样本 202:
+问题: What part of a table would you put a ruler in?
+预测: drawer
+正确答案: drawer
+是否正确: True
+
+样本 203:
+问题: What happens if someone kisses too long?
+预测: shortness of breath
+正确答案: shortness of breath
+是否正确: True
+
+样本 204:
+问题: If I have a modern light source in my living room, what is it likely to be?
+预测: lamp
+正确答案: lamp
+是否正确: True
+
+样本 205:
+问题: The person saw the mess his children made, what was his following reaction?
+预测: cry
+正确答案: look angry
+是否正确: False
+
+样本 206:
+问题: Who might wear dark glasses indoors?
+预测: blind person
+正确答案: blind person
+是否正确: True
+
+样本 207:
+问题: Where would stones not be arranged in a path?
+预测: quarries
+正确答案: field
+是否正确: False
+
+样本 208:
+问题: A bald eagle is likely to be found on what kind of work?
+预测: rural area
+正确答案: painting
+是否正确: False
+
+样本 209:
+问题: The hostess was good at her job, she always had a smile when she would what?
+预测: welcome guests
+正确答案: welcome guests
+是否正确: True
+
+样本 210:
+问题: What is likely to happen to someone who is learning?
+预测: growth
+正确答案: knowing more
+是否正确: False
+
+样本 211:
+问题: The inspector was agreeing with the factory protocols, what was the status of the factory?
+预测: compliance
+正确答案: compliance
+是否正确: True
+
+样本 212:
+问题: After standing up I had to sit right back down, why would I feel like this?
+预测: balance
+正确答案: balance
+是否正确: True
+
+样本 213:
+问题: Where do you go on a night out before going to the bar?
+预测: restaurant
+正确答案: restaurant
+是否正确: True
+
+样本 214:
+问题: The dad wanted to protect his house, where did he put his gun?
+预测: drawer
+正确答案: drawer
+是否正确: True
+
+样本 215:
+问题: What instrument can be played with an air of happiness?
+预测: jump up and down
+正确答案: fiddle
+是否正确: False
+
+样本 216:
+问题: What to kids do for boredom on a ramp?
+预测: skateboard
+正确答案: skateboard
+是否正确: True
+
+样本 217:
+问题: What animal has quills all over it?
+预测: porcupine
+正确答案: hedgehog
+是否正确: False
+
+样本 218:
+问题: Why would you go to an office?
+预测: work
+正确答案: work
+是否正确: True
+
+样本 219:
+问题: When is the worst time for having food?
+预测: digesting
+正确答案: not hungry
+是否正确: False
+
+样本 220:
+问题: If you spend all your time buying and not saving what is is likely to happen?
+预测: losing money
+正确答案: go broke
+是否正确: False
+
+样本 221:
+问题: Though a mouse might prefer your house, you might also see him where?
+预测: garden
+正确答案: garden
+是否正确: True
+
+样本 222:
+问题: What is performing a type of?
+预测: acting
+正确答案: act
+是否正确: False
+
+样本 223:
+问题: The car was going from Alabama to New York, what was its goal?
+预测: heading north
+正确答案: head north
+是否正确: False
+
+样本 224:
+问题: What do they call the trash in Australia?
+预测: dustbin
+正确答案: dustbin
+是否正确: True
+
+样本 225:
+问题: Joan wants to cook a potato, where should she place it?
+预测: boiling water
+正确答案: boiling water
+是否正确: True
+
+样本 226:
+问题: Writers with a great what can amass a large fortune?
+预测: imagination
+正确答案: imagination
+是否正确: True
+
+样本 227:
+问题: Where do all animals live?
+预测: surface of earth
+正确答案: surface of earth
+是否正确: True
+
+样本 228:
+问题: How are the conditions for someone who is living in a homeless shelter?
+预测: sometimes bad
+正确答案: sometimes bad
+是否正确: True
+
+样本 229:
+问题: You can do knitting to get the feeling of what?
+预测: relaxation
+正确答案: relaxation
+是否正确: True
+
+样本 230:
+问题: What might a very large table be?
+预测: dining room
+正确答案: conference
+是否正确: False
+
+样本 231:
+问题: John got his tax refund back.  He treated it like it was what?
+预测: free money
+正确答案: free money
+是否正确: True
+
+样本 232:
+问题: A person with an allergy might be doing what if they awake suddenly?
+预测: sneezing
+正确答案: sneezing
+是否正确: True
+
+样本 233:
+问题: Where is a ferret unlikely to be?
+预测: outdoors
+正确答案: classroom
+是否正确: False
+
+样本 234:
+问题: If you jump in any of the oceans you will get?
+预测: wet
+正确答案: wet
+是否正确: True
+
+样本 235:
+问题: Immediately after peeing, a person's bladder is what?
+预测: empty
+正确答案: empty
+是否正确: True
+
+样本 236:
+问题: The lady would eat and eat, and because of mental issues would then make herself what?
+预测: throw up
+正确答案: throw up
+是否正确: True
+
+样本 237:
+问题: A car was hailed to chauffeur someone to the opera house, where was it heading?
+预测: go downtown
+正确答案: go downtown
+是否正确: True
+
+样本 238:
+问题: What do you go to see for live entertainment?
+预测: concert venue
+正确答案: show
+是否正确: False
+
+样本 239:
+问题: The teacher thought that a ferret can be very mischievous and probably wouldn't make a great pet for the entire what?
+预测: classroom
+正确答案: classroom
+是否正确: True
+
+样本 240:
+问题: A creek is a body of water found in what low land?
+预测: valley
+正确答案: valley
+是否正确: True
+
+样本 241:
+问题: If I have a pet bird, what does it likely live in?
+预测: cage
+正确答案: cage
+是否正确: True
+
+样本 242:
+问题: Joe and Mac were playing basketball. They did it every day in their back yard.  Why were they playing basketball?
+预测: have fun
+正确答案: have fun
+是否正确: True
+
+样本 243:
+问题: What makes someone a nomad?
+预测: schizophrenia
+正确答案: have no home
+是否正确: False
+
+样本 244:
+问题: What is a treat that you dog will enjoy?
+预测: lots of attention
+正确答案: bone
+是否正确: False
+
+样本 245:
+问题: Women used to be expected to wear a dress but it's now acceptable for them to wear what?
+预测: pants
+正确答案: pants
+是否正确: True
+
+样本 246:
+问题: The fact that Joe was able to memorize the list in spite of his apparent  state proved that part of his brain was what?
+预测: awake
+正确答案: awake
+是否正确: True
+
+样本 247:
+问题: What is a wet person likely to do?
+预测: catch cold
+正确答案: catch cold
+是否正确: True
+
+样本 248:
+问题: After recovering from the disease, what did the doctor call the patient?
+预测: healthy
+正确答案: healthy
+是否正确: True
+
+样本 249:
+问题: The painter started to edge the room with tape, he always took extra care to make the lines clean and crisp when working with an what?
+预测: interior
+正确答案: interior
+是否正确: True
+
+样本 250:
+问题: After high tide, where on the coast can you look to find a sea anemone?
+预测: intertidal zone
+正确答案: tide pool
+是否正确: False
+
+样本 251:
+问题: What could a driving car do to a pedestrian?
+预测: pollution
+正确答案: wreak
+是否正确: False
+
+样本 252:
+问题: People do many things to alleviate boredom.  If you can't get out of the house you might decide to do what?
+预测: listen to music
+正确答案: listen to music
+是否正确: True
+
+样本 253:
+问题: At a grocery store they sell individual potatoes, where does the grocery clerk likely put the potato?
+预测: root cellar
+正确答案: paper bag
+是否正确: False
+
+样本 254:
+问题: What room is a rubber bath mat usually kept?
+预测: bathroom
+正确答案: bathroom
+是否正确: True
+
+样本 255:
+问题: What would you put meat on top of to cook it?
+预测: frying pan
+正确答案: frying pan
+是否正确: True
+
+样本 256:
+问题: Minerals can be obtained in what way for a person who avoids leafy greens?
+预测: multivitamin
+正确答案: multivitamin
+是否正确: True
+
+样本 257:
+问题: What could you be a few hours after you finish cashing in due to your cash?
+预测: spending money
+正确答案: happy
+是否正确: False
+
+样本 258:
+问题: The smelly man was having a bath, but what is he pursuing?
+预测: personal cleanliness
+正确答案: personal cleanliness
+是否正确: True
+
+样本 259:
+问题: What might a couple have a lot of when they are deciding on stopping being married to each other?
+预测: bankruptcy
+正确答案: fights
+是否正确: False
+
+样本 260:
+问题: If a person is working a lot, what are they likely trying to earn?
+预测: much money
+正确答案: much money
+是否正确: True
+
+样本 261:
+问题: The traveling business man was glad his credit card had perks, it offset the high prices for travel from a what?
+预测: hotel
+正确答案: airport
+是否正确: False
+
+样本 262:
+问题: Billy hated using other people's toilets. He was only comfortable on his own.  So whenever he needed to poop, he would go back to his what?
+预测: apartment
+正确答案: house
+是否正确: False
+
+样本 263:
+问题: The forest experienced a cold winter, where is it located?
+预测: south america
+正确答案: temperate zone
+是否正确: False
+
+样本 264:
+问题: How can you let someone know about your anger without hurting him or her?
+预测: lose your temper
+正确答案: write letter
+是否正确: False
+
+样本 265:
+问题: Where is one likely to find a brownstone?
+预测: new york city
+正确答案: new york city
+是否正确: True
+
+样本 266:
+问题: What may I place the telephone on?
+预测: friend's house
+正确答案: desktop
+是否正确: False
+
+样本 267:
+问题: What language type is someone from Iran likely to use?
+预测: television
+正确答案: dard
+是否正确: False
+
+样本 268:
+问题: John went to a party that lasted all night.  Because of this, he didn't have time for what?
+预测: studying
+正确答案: studying
+是否正确: True
+
+样本 269:
+问题: The child wasn't allowed in the kitchen but still wanted to help, what could it do to help in the dining room?
+预测: set table
+正确答案: set table
+是否正确: True
+
+样本 270:
+问题: He was having a hard time expressing himself in a healthy way, the psychologist said he was mentally what?
+预测: suffering
+正确答案: suffering
+是否正确: True
+
+样本 271:
+问题: When someone is physically competing what does their body do?
+预测: sweat
+正确答案: sweat
+是否正确: True
+
+样本 272:
+问题: How would you express information to a deaf person?
+预测: summarize main points
+正确答案: write down
+是否正确: False
+
+样本 273:
+问题: Printing on a printer can get expensive because it does what?
+预测: use paper
+正确答案: use paper
+是否正确: True
+
+样本 274:
+问题: What will god never do according to religion?
+预测: work miracles
+正确答案: judge people
+是否正确: False
+
+样本 275:
+问题: One of the potential hazards of attending school is what?
+预测: boredom
+正确答案: colds and flu
+是否正确: False
+
+样本 276:
+问题: What has a surface with many sides?
+预测: tetrahedron
+正确答案: tetrahedron
+是否正确: True
+
+样本 277:
+问题: What could bring a container from one place to another?
+预测: cargo ship
+正确答案: cargo ship
+是否正确: True
+
+样本 278:
+问题: The old style pop ups literally let you see the story when you did what?
+预测: go to movies
+正确答案: open book
+是否正确: False
+
+样本 279:
+问题: What is it called when you are talking to someone?
+预测: communication
+正确答案: communication
+是否正确: True
+
+样本 280:
+问题: The family finished dinner, the child's chore was to load the dirty dishes where?
+预测: dishwasher
+正确答案: dishwasher
+是否正确: True
+
+样本 281:
+问题: Where could you find a bureau as well as many politicians?
+预测: washington dc
+正确答案: washington dc
+是否正确: True
+
+样本 282:
+问题: Dad wanted to hide the check in his office, where did he put it?
+预测: desk drawer
+正确答案: desk drawer
+是否正确: True
+
+样本 283:
+问题: For some reason she was devoid of regular emotions, buying products was the only way she could feel what?
+预测: pleasure
+正确答案: pleasure
+是否正确: True
+
+样本 284:
+问题: Where are horses judged on appearance?
+预测: countryside
+正确答案: fair
+是否正确: False
+
+样本 285:
+问题: Why do people read non fiction?
+预测: it's more relatable
+正确答案: learn new things
+是否正确: False
+
+样本 286:
+问题: While knitting you can do what using a radio?
+预测: listen to music
+正确答案: listen to music
+是否正确: True
+
+样本 287:
+问题: Where are you likely to set papers while working on them?
+预测: table
+正确答案: table
+是否正确: True
+
+样本 288:
+问题: John had a massive debt to 50 million dollars.  Compared to that, Leo's 2000 dollar debt seemed what?
+预测: insubstantial
+正确答案: insubstantial
+是否正确: True
+
+样本 289:
+问题: The man flew his airplane over the city and saw pollution visibly in the sky, what was polluted?
+预测: air
+正确答案: air
+是否正确: True
+
+样本 290:
+问题: What is a very unlikely side effect of becoming inebriated?
+预测: drunkenness
+正确答案: paralysis
+是否正确: False
+
+样本 291:
+问题: when communicating with my boss what should i do
+预测: misunderstandings
+正确答案: transfer of information
+是否正确: False
+
+样本 292:
+问题: If not in a stream but in a market where will you find fish?
+预测: aquarium
+正确答案: refrigerator
+是否正确: False
+
+样本 293:
+问题: What are people likely to want to do with their friends?
+预测: talk to each other
+正确答案: spend time
+是否正确: False
+
+样本 294:
+问题: During a shark filled tornado where should you not be?
+预测: outside
+正确答案: outside
+是否正确: True
+
+样本 295:
+问题: What is the likely result of buying products in excess?
+预测: running out of money
+正确答案: overstocking
+是否正确: False
+
+样本 296:
+问题: What is a person trying to accomplish when taking analgesics?
+预测: avoid pain
+正确答案: avoid pain
+是否正确: True
+
+样本 297:
+问题: Where would you put a glass after drinking from it?
+预测: dishwasher
+正确答案: dishwasher
+是否正确: True
+
+样本 298:
+问题: Where would you buy food?
+预测: store
+正确答案: store
+是否正确: True
+
+样本 299:
+问题: When a person admits his mistakes, what are they doing?
+预测: feel relieved
+正确答案: act responsibly
+是否正确: False
+
+样本 300:
+问题: Where do play a game for money?
+预测: casino
+正确答案: casino
+是否正确: True
+
+样本 301:
+问题: When you travel you should what in case of unexpected costs?
+预测: spend frivilously
+正确答案: have money
+是否正确: False
+
+样本 302:
+问题: Donald is a prominent figure for the federal government, so in what city does he likely spend a lot of time?
+预测: washington d.c
+正确答案: washington d.c
+是否正确: True
+
+样本 303:
+问题: There was more than one bum asking for change or a ticket, it was the cheapest way to travel so it was no surprise sight at the what?
+预测: train station
+正确答案: bus depot
+是否正确: False
+
+样本 304:
+问题: John and Joe like planning games but Joe  was hit by a ball and fell down. What might have happened to Joe.
+预测: injury
+正确答案: injury
+是否正确: True
+
+样本 305:
+问题: Where can you buy jeans at one of may indoor merchants?
+预测: shopping mall
+正确答案: shopping mall
+是否正确: True
+
+样本 306:
+问题: What do you write letter in in America?
+预测: envelope
+正确答案: english alphabet
+是否正确: False
+
+样本 307:
+问题: Joe owned back taxes as well as what other type of taxes?
+预测: current
+正确答案: current
+是否正确: True
+
+样本 308:
+问题: Where is a broadcast studio likely to be heard?
+预测: radio station
+正确答案: radio station
+是否正确: True
+
+样本 309:
+问题: Kramer wrote a self-referential book.  What might that book be about?
+预测: coffee table
+正确答案: coffee table
+是否正确: True
+
+样本 310:
+问题: Of all the sports, Billy enjoys football, but what does his concerned mother think of the sport?
+预测: violent
+正确答案: violent
+是否正确: True
+
+样本 311:
+问题: What city will likely have many parking structures?
+预测: chicago
+正确答案: chicago
+是否正确: True
+
+样本 312:
+问题: Sally was afraid of danger and always double checked what?
+预测: safety
+正确答案: safety
+是否正确: True
+
+样本 313:
+问题: What is the habitat of the fox?
+预测: mountains
+正确答案: mountains
+是否正确: True
+
+样本 314:
+问题: People are very much like the animals, but one thing has secured or dominance over the planet.  We're better at doing what?
+预测: talk to each other
+正确答案: make tools
+是否正确: False
+
+样本 315:
+问题: They children loved having a back yard, and the parents loved that it was a safe what?
+预测: neighborhood
+正确答案: neighborhood
+是否正确: True
+
+样本 316:
+问题: While people just throw coins down them now, what originally had a pail to be lowered for it's intended use?
+预测: wishing well
+正确答案: wishing well
+是否正确: True
+
+样本 317:
+问题: Joe was thrown from his boat into the water.  The water was cold because it was the middle of winter and he cried out to his crew for help.  They couldn't hear him over the sound of the what?
+预测: typhoon
+正确答案: typhoon
+是否正确: True
+
+样本 318:
+问题: When a human is earning money, where are they often found?
+预测: place of work
+正确答案: place of work
+是否正确: True
+
+样本 319:
+问题: They passed a apple tree on their way to the racetrack, the were going to watch the biggest motorsport spectacle in the world where?
+预测: new jersey
+正确答案: indiana
+是否正确: False
+
+样本 320:
+问题: Why do people play chess on the weekends?
+预测: have fun
+正确答案: have fun
+是否正确: True
+
+样本 321:
+问题: What do you need energy to do in gym class?
+预测: play sports
+正确答案: play sports
+是否正确: True
+
+样本 322:
+问题: Sarah dropped the marble because she wanted to do what?
+预测: pouch
+正确答案: game
+是否正确: False
+
+样本 323:
+问题: We are all human, and we all what?
+预测: think critically
+正确答案: die
+是否正确: False
+
+样本 324:
+问题: If a person were going to bed, what would be their goal?
+预测: falling asleep
+正确答案: falling asleep
+是否正确: True
+
+样本 325:
+问题: What are candles good for eliminating?
+预测: dark
+正确答案: dark
+是否正确: True
+
+样本 326:
+问题: WHat leads to an early death?
+预测: homicide
+正确答案: homicide
+是否正确: True
+
+样本 327:
+问题: What room would you find many bookcases and is used for contemplation?
+预测: study
+正确答案: study
+是否正确: True
+
+样本 328:
+问题: Where do you head to travel to a star?
+预测: outer space
+正确答案: outer space
+是否正确: True
+
+样本 329:
+问题: The player lifted his cornet and walked in rhythm, what was the player a member of?
+预测: orchestra
+正确答案: marching band
+是否正确: False
+
+样本 330:
+问题: What happens at soon as a living being is born?
+预测: growing older
+正确答案: growing older
+是否正确: True
+
+样本 331:
+问题: When someone is talking and you missed something, what can you do to get them to repeat it?
+预测: sneeze
+正确答案: ask question
+是否正确: False
+
+样本 332:
+问题: Where does one store fabric in their own home?
+预测: sewing room
+正确答案: sewing room
+是否正确: True
+
+样本 333:
+问题: What do most companies not want to have relative to demand?
+预测: oversupply
+正确答案: oversupply
+是否正确: True
+
+样本 334:
+问题: What is happening while he's playing basketball for such a long time?
+预测: sweating
+正确答案: sweating
+是否正确: True
+
+样本 335:
+问题: A traveler laments the fact that mass transit is limited in his city when his groceries get soaked by the rain as he waits where?
+预测: bus stop
+正确答案: bus stop
+是否正确: True
+
+样本 336:
+问题: The person was in physical distress, where should he go?
+预测: hospital
+正确答案: hospital
+是否正确: True
+
+样本 337:
+问题: The cancer patient was expecting to die, so he made out his what?
+预测: write will
+正确答案: write will
+是否正确: True
+
+样本 338:
+问题: There was a toll road that meandered from Maine to New Hampshire, where was it?
+预测: new jersey
+正确答案: new england
+是否正确: False
+
+样本 339:
+问题: If you partied all night you could find yourself already what, even when just beginning work?
+预测: procrastination
+正确答案: getting tired
+是否正确: False
+
+样本 340:
+问题: The cat carefully navigated the area, they do everything they can to avoid what?
+预测: sharp claws
+正确答案: get wet
+是否正确: False
+
+样本 341:
+问题: What is someone usually doing if someone else is talking to him or her?
+预测: listening
+正确答案: listening
+是否正确: True
+
+样本 342:
+问题: What does the sky do before a rain?
+预测: shows a rainbow
+正确答案: cloud over
+是否正确: False
+
+样本 343:
+问题: Pens, computers, text books and paper clips can all be found where?
+预测: drawer
+正确答案: university
+是否正确: False
+
+样本 344:
+问题: What geographic area is a lizard likely to be?
+预测: arid regions
+正确答案: west texas
+是否正确: False
+
+样本 345:
+问题: What do you use to carry your briefcase?
+预测: hand
+正确答案: hand
+是否正确: True
+
+样本 346:
+问题: He picked up his pace to a run, he wanted to do what?
+预测: exercise
+正确答案: go faster
+是否正确: False
+
+样本 347:
+问题: What would a person do if they do not have any friends?
+预测: talk to people
+正确答案: stand alone
+是否正确: False
+
+样本 348:
+问题: As a result of dying, what happens to organic material?
+预测: death and decay
+正确答案: death and decay
+是否正确: True
+
+样本 349:
+问题: What does everyone have in relation to other people?
+预测: feelings
+正确答案: feelings
+是否正确: True
+
+样本 350:
+问题: What do you ask a child to do when you first meet her?
+预测: count to ten
+正确答案: state name
+是否正确: False
+
+样本 351:
+问题: Where can you buy a clock, clothing and wrenches?
+预测: department store
+正确答案: department store
+是否正确: True
+
+样本 352:
+问题: What do you do when you're in a new place and want to see new things?
+预测: change of surroundings
+正确答案: look around
+是否正确: False
+
+样本 353:
+问题: What happens when to ice when it is in the sun?
+预测: melted
+正确答案: melted
+是否正确: True
+
+样本 354:
+问题: Where can you store your dishes in your dwelling?
+预测: cabinet
+正确答案: shelf
+是否正确: False
+
+样本 355:
+问题: The man laid on the soft moss and looked up at the trees, where was the man?
+预测: forest
+正确答案: forest
+是否正确: True
+
+样本 356:
+问题: What is someone doing if he or she is sitting quietly and his or her eyes are moving?
+预测: reading
+正确答案: reading
+是否正确: True
+
+样本 357:
+问题: Where can I find a stapler in many places?
+预测: desk drawer
+正确答案: office building
+是否正确: False
+
+样本 358:
+问题: A man takes a seat at a museum outside of Barcelona, where is he likely?
+预测: martorell
+正确答案: martorell
+是否正确: True
+
+样本 359:
+问题: Where would you find a toy soldier that is being played with?
+预测: child's hand
+正确答案: child's hand
+是否正确: True
+
+样本 360:
+问题: Where are you when you're about to use your plane ticket?
+预测: airport
+正确答案: airport
+是否正确: True
+
+样本 361:
+问题: Flowers make a good center focal point, just one of many arrangements that look good on a what?
+预测: table
+正确答案: table
+是否正确: True
+
+样本 362:
+问题: How can a human cross a river and not mess up their hair?
+预测: waterfall
+正确答案: bridge
+是否正确: False
+
+样本 363:
+问题: Batman bought beer.  There were no bottles available.  He had to settle for what?.
+预测: can
+正确答案: can
+是否正确: True
+
+样本 364:
+问题: You can find a monkey in what West African region on the Gulf of Guinea
+预测: nigeria
+正确答案: nigeria
+是否正确: True
+
+样本 365:
+问题: Surprising an angry person could lead to what?
+预测: laughter
+正确答案: fight
+是否正确: False
+
+样本 366:
+问题: Where is a dining area likely to be small?
+预测: cruise ship
+正确答案: home
+是否正确: False
+
+样本 367:
+问题: Killing people should not cause what emotion?
+预测: vengeance
+正确答案: joy
+是否正确: False
+
+样本 368:
+问题: James slamed into someone playing football, and not for the first time.  He was concerned about the consequences of many what?
+预测: head injuries
+正确答案: head injuries
+是否正确: True
+
+样本 369:
+问题: More people should lower the guard and just have fun, we don't got long just what?
+预测: enjoyable
+正确答案: enjoy living
+是否正确: False
+
+样本 370:
+问题: Where can you get a lizard to keep in your home?
+预测: pet shop
+正确答案: pet shop
+是否正确: True
+
+样本 371:
+问题: What would use a musical instrument?
+预测: orchestra
+正确答案: orchestra
+是否正确: True
+
+样本 372:
+问题: She was in an affair, what did that end upon discovery by her husband?
+预测: divorce
+正确答案: marriage
+是否正确: False
+
+样本 373:
+问题: What is the most famous constellation out of earth?
+预测: milky way
+正确答案: milky way
+是否正确: True
+
+样本 374:
+问题: If a reception is held with hotel guests walking by, what is the likely venue?
+预测: lobby
+正确答案: lobby
+是否正确: True
+
+样本 375:
+问题: What is a place that is far away from your house and where you could consume beer?
+预测: friend's house
+正确答案: friend's house
+是否正确: True
+
+样本 376:
+问题: If a court case is dismissed after hearing testimony, what would be a likely cause?
+预测: anxiety
+正确答案: change of heart
+是否正确: False
+
+样本 377:
+问题: Sitting down quickly after eating beans could lead to what?
+预测: flatulence
+正确答案: flatulence
+是否正确: True
+
+样本 378:
+问题: John was my neighbor, it was easy to talk to him. He was never what?
+预测: distant
+正确答案: distant
+是否正确: True
+
+样本 379:
+问题: Where do people want to have a lot of coffee?
+预测: kitchen
+正确答案: office
+是否正确: False
+
+样本 380:
+问题: You stop and have food all around you, what are you?
+预测: nutrition
+正确答案: full
+是否正确: False
+
+样本 381:
+问题: James was meeting a friend.  They had planed a slow day. They didn't want to do much.  They just wanted what?
+预测: relaxation
+正确答案: relaxation
+是否正确: True
+
+样本 382:
+问题: The car's steering seem quite loose, but he still considered purchasing it because he needed something small and what?
+预测: sturdy
+正确答案: compact
+是否正确: False
+
+样本 383:
+问题: Dan was a farmer with just one heifer.  But that was okay, he only kept her for milk, and he didn't think he'd find good farmland in a place as cold as where?
+预测: dairy farm
+正确答案: michigan
+是否正确: False
+
+样本 384:
+问题: It's Friday night and Alice puts off going to bed because she plans on doing what Saturday?
+预测: sleeping in
+正确答案: sleeping in
+是否正确: True
+
+样本 385:
+问题: His phone was dead and they couldn't find the expressway, he opened up the glove compartment and handed his passenger the what to navigate?
+预测: map
+正确答案: map
+是否正确: True
+
+样本 386:
+问题: What would someone use a personal key for?
+预测: front door
+正确答案: own home
+是否正确: False
+
+样本 387:
+问题: The cat kept pestering it's owner, it was that time of the day and it was what?
+预测: hungry
+正确答案: hungry
+是否正确: True
+
+样本 388:
+问题: Her voice lent her to the alto section, what group did she join?
+预测: choir
+正确答案: choir
+是否正确: True
+
+样本 389:
+问题: Where are you likely to find a Japanese restaurant not run by people from Japan?
+预测: california
+正确答案: california
+是否正确: True
+
+样本 390:
+问题: Animals who have hair and don't lay eggs are what?
+预测: mammals
+正确答案: mammals
+是否正确: True
+
+样本 391:
+问题: John was an aristocratic fox hunter.  Where might he live?
+预测: england
+正确答案: new hampshire
+是否正确: False
+
+样本 392:
+问题: Where is a grape likely to be being fed to someone else?
+预测: bathroom
+正确答案: painting
+是否正确: False
+
+样本 393:
+问题: Some food can be stored at room temperature until you open it, then you should keep it in what?
+预测: refrigerators
+正确答案: refrigerators
+是否正确: True
+
+样本 394:
+问题: Sam couldn't get back to sleep because of a dream he had.  It was a what?
+预测: nightmare
+正确答案: nightmare
+是否正确: True
+
+样本 395:
+问题: If you're going to a party in a new town what are you hoping to make?
+预测: making new friends
+正确答案: making new friends
+是否正确: True
+
+样本 396:
+问题: How is riding a bike getting it to move?
+预测: pedalling
+正确答案: pedalling
+是否正确: True
+
+样本 397:
+问题: Where does one usually keep literature?
+预测: shelf
+正确答案: shelf
+是否正确: True
+
+样本 398:
+问题: WHat type of keyboard is made up of one or more pipe divisions?
+预测: typewriter
+正确答案: organ
+是否正确: False
+
+样本 399:
+问题: The bell rang, and the congregation began to what in to the church?
+预测: funnel
+正确答案: funnel
+是否正确: True
+
+样本 400:
+问题: James needed smooth sandpaper, but instead he got what type?
+预测: rough
+正确答案: rough
+是否正确: True
+
+样本 401:
+问题: Where would you borrow furniture if you do not have any?
+预测: neighbor's house
+正确答案: neighbor's house
+是否正确: True
+
+样本 402:
+问题: What must happen for an animal to and it's offspring to continue livng?
+预测: reproducing
+正确答案: reproducing
+是否正确: True
+
+样本 403:
+问题: I want my wine stored in darkness, where should it go?
+预测: cellar
+正确答案: cellar
+是否正确: True
+
+样本 404:
+问题: If I want to open a steakhouse, what should I get first?
+预测: michigan
+正确答案: building
+是否正确: False
+
+样本 405:
+问题: Sarah didn't like to play but she didn't want to be sedentary and bored, either, so she took up what?
+预测: doing nothing
+正确答案: musical
+是否正确: False
+
+样本 406:
+问题: Joe found spiders while checking something outside.  What might that be?
+预测: garage
+正确答案: mail box
+是否正确: False
+
+样本 407:
+问题: What would you do if your date does not show up?
+预测: go for haircut
+正确答案: wait for
+是否正确: False
+
+样本 408:
+问题: What did the adult do before the job interview?
+预测: dress herself
+正确答案: dress himself
+是否正确: False
+
+样本 409:
+问题: Most items in retail stores are what even when they are on sale?
+预测: overpriced
+正确答案: overpriced
+是否正确: True
+
+样本 410:
+问题: John farms anemone in what type of facility?
+预测: nursery
+正确答案: nursery
+是否正确: True
+
+样本 411:
+问题: Brawn opened the curtains so that the sun could do what?
+预测: shine brightly
+正确答案: warm room
+是否正确: False
+
+样本 412:
+问题: How might releasing energy that has built up feel?
+预测: exhaustion
+正确答案: wonderful
+是否正确: False
+
+样本 413:
+问题: What would you do if you have curiosity but are blind and paralyzed?
+预测: examine thing
+正确答案: analyse
+是否正确: False
+
+样本 414:
+问题: Where might it be hard to get furniture to?
+预测: apartment
+正确答案: loft
+是否正确: False
+
+样本 415:
+问题: A great teacher can be what when you are attending school?
+预测: inspiration
+正确答案: inspiration
+是否正确: True
+
+样本 416:
+问题: Where would you get jeans and other wearable items to take home with you?
+预测: shopping mall
+正确答案: clothing store
+是否正确: False
+
+样本 417:
+问题: In what substance do clouds float?
+预测: air
+正确答案: air
+是否正确: True
+
+样本 418:
+问题: Where is the large area location of the empire state building?
+预测: fifth avenue
+正确答案: new york city
+是否正确: False
+
+样本 419:
+问题: Where do most people make coffee?
+预测: coffee shop
+正确答案: kitchen
+是否正确: False
+
+样本 420:
+问题: What kind of service is my body a part of when I'm no longer here?
+预测: funeral
+正确答案: funeral
+是否正确: True
+
+样本 421:
+问题: Many people wanted to leave their country estates for row houses, what did they need to move to?
+预测: living less expensively
+正确答案: city
+是否正确: False
+
+样本 422:
+问题: Where can someone get a new saw?
+预测: hardware store
+正确答案: hardware store
+是否正确: True
+
+样本 423:
+问题: What would you do to a crime scene before asking a question?
+预测: give clue
+正确答案: analyse
+是否正确: False
+
+样本 424:
+问题: The man didn't do great in college, all his best memories were late night with his brothers at the what?
+预测: fraternity house
+正确答案: fraternity house
+是否正确: True
+
+样本 425:
+问题: In a horror movie victims usually trip when the run in order to do what in regards to the killer?
+预测: frightened
+正确答案: get away from
+是否正确: False
+
+样本 426:
+问题: The coach decided to make a lineup change, the team's effort was suffering from what?
+预测: stagnation
+正确答案: stagnation
+是否正确: True
+
+样本 427:
+问题: Where would you go if you want to buy some clothes?
+预测: grocery store
+正确答案: mall
+是否正确: False
+
+样本 428:
+问题: Where is food likely to stay dry?
+预测: cupboard
+正确答案: cupboard
+是否正确: True
+
+样本 429:
+问题: What is it called when a person with mental illness is able to lead a relatively normal life?
+预测: illusion
+正确答案: managed
+是否正确: False
+
+样本 430:
+问题: Where do you keep musical instrument so it doesn't get scratched?
+预测: music room
+正确答案: case
+是否正确: False
+
+样本 431:
+问题: The woman is watching television and trying to forget her day, what is her goal?
+预测: relaxation
+正确答案: relaxation
+是否正确: True
+
+样本 432:
+问题: While John Candy and Dan Aykroyd didn't run into a gazelle, you'd have to go where to see one?
+预测: great outdoors
+正确答案: great outdoors
+是否正确: True
+
+样本 433:
+问题: When we are running what are we doing?
+预测: stretches
+正确答案: go quickly
+是否正确: False
+
+样本 434:
+问题: It's dangerous to let pet birds free so it's better to keep them what?
+预测: caged in
+正确答案: caged in
+是否正确: True
+
+样本 435:
+问题: A beaver is know for building prowess, their supplies come from where?
+预测: body of water
+正确答案: wooded area
+是否正确: False
+
+样本 436:
+问题: Zane doesn't like answering questions.  He's not good at it because he suffers from what?
+预测: confusion
+正确答案: confusion
+是否正确: True
+
+样本 437:
+问题: Going public about a common problem can gain what for a celebrity?
+预测: wide acceptance
+正确答案: wide acceptance
+是否正确: True
+
+样本 438:
+问题: The electricity went out and everyone was shrouded in darkness.  They all remained in their seats, because it would have been dangerous to try to find there way out.  Where mihgt they have been?
+预测: grand canyon
+正确答案: opera
+是否正确: False
+
+样本 439:
+问题: Where could you find hundreds of beauty salon?
+预测: strip mall
+正确答案: city
+是否正确: False
+
+样本 440:
+问题: If it is Chrismas time what came most recently before?
+预测: halloween
+正确答案: halloween
+是否正确: True
+
+样本 441:
+问题: If someone found out their brother was having a daughter, they would have to add a niece limb to the what?
+预测: family tree
+正确答案: family tree
+是否正确: True
+
+样本 442:
+问题: The criminal insisted he must do the crime to the bank teller, but she tried to convince him there were other ways in life and this was what?
+预测: unnecessary
+正确答案: unnecessary
+是否正确: True
+
+样本 443:
+问题: what do you fill with ink to write?
+预测: fountain pen
+正确答案: fountain pen
+是否正确: True
+
+样本 444:
+问题: He walked into the room and had a great shock, his friends had what him?
+预测: surprised
+正确答案: surprised
+是否正确: True
+
+样本 445:
+问题: He wasn't the hugging type, even when he meet friend he'd just do what?
+预测: handshake
+正确答案: handshake
+是否正确: True
+
+样本 446:
+问题: If you were lost you might need a map, the best place to find one on the road is at any what?
+预测: gas station
+正确答案: gas station
+是否正确: True
+
+样本 447:
+问题: Where would you put a net if you wanted to use it?
+预测: fishing gear
+正确答案: fishing boat
+是否正确: False
+
+样本 448:
+问题: Sage loved communicating  He liked doing what with his peers?
+预测: exchanging ideas
+正确答案: exchanging ideas
+是否正确: True
+
+样本 449:
+问题: Where would a cat snuggle up with their human?
+预测: comfortable chair
+正确答案: comfortable chair
+是否正确: True
+
+样本 450:
+问题: What is a place that has large cable hanging overhead?
+预测: electrical device
+正确答案: substation
+是否正确: False
+
+样本 451:
+问题: Where do cars usually travel at very high speeds?
+预测: freeway
+正确答案: race track
+是否正确: False
+
+样本 452:
+问题: What might a person be watching if they see a man with a suitcase full of money?
+预测: baggage compartment
+正确答案: movie
+是否正确: False
+
+样本 453:
+问题: Eating breakfast in bed while seeing a homeless person shivering outside your window may cause you to what?
+预测: feel guilty
+正确答案: feel guilty
+是否正确: True
+
+样本 454:
+问题: If I put in my key and open a hinged door, where am I likely entering?
+预测: kitchen
+正确答案: own house
+是否正确: False
+
+样本 455:
+问题: If somebody is working at a reception desk, they are located at the front entrance of the what?
+预测: building
+正确答案: building
+是否正确: True
+
+样本 456:
+问题: If you're reading a newspaper from another country what are you doing?
+预测: education
+正确答案: learning about world
+是否正确: False
+
+样本 457:
+问题: They wanted to recognize his accomplishment, where should they put his name?
+预测: certificate
+正确答案: certificate
+是否正确: True
+
+样本 458:
+问题: What is it called when a person tends to leave things to the last minute?
+预测: procrastinate
+正确答案: procrastinate
+是否正确: True
+
+样本 459:
+问题: What will you do if you do not want to settle in one place?
+预测: wander
+正确答案: wander
+是否正确: True
+
+样本 460:
+问题: Where would a person live that isn't in the metro area but still has good schools?
+预测: suburbs
+正确答案: suburbs
+是否正确: True
+
+样本 461:
+问题: Jane works for the government as a senator, where does she spend a lot of time?
+预测: capitol building
+正确答案: capitol building
+是否正确: True
+
+样本 462:
+问题: What is it called when two people in love have children?
+预测: matrimony
+正确答案: procreate
+是否正确: False
+
+样本 463:
+问题: What did the policemen do when they heard a cry from a distance?
+预测: run away
+正确答案: help
+是否正确: False
+
+样本 464:
+问题: It takes ambition to complete a job, but the first step is to what?
+预测: begin work
+正确答案: begin work
+是否正确: True
+
+样本 465:
+问题: Where would I not want a fox?
+预测: outside bedroom window
+正确答案: hen house
+是否正确: False
+
+样本 466:
+问题: What type of building has the most top floor?
+预测: apartment building
+正确答案: tall building
+是否正确: False
+
+样本 467:
+问题: What do humans do to other humans after death?
+预测: burial
+正确答案: burial
+是否正确: True
+
+样本 468:
+问题: Where can you find a restaurant's phone number?
+预测: yellow pages
+正确答案: yellow pages
+是否正确: True
+
+样本 469:
+问题: What would you put coins into to make it work?
+预测: purse
+正确答案: water fountain
+是否正确: False
+
+样本 470:
+问题: A patriotic guy with a camera is looking for a bald eagle, what is he likely to do with the eagle if he finds one?
+预测: photograph
+正确答案: photograph
+是否正确: True
+
+样本 471:
+问题: Where can you go to use a piano in your neighborhood if you don't have one?
+预测: neighbor's house
+正确答案: neighbor's house
+是否正确: True
+
+样本 472:
+问题: Where would you get a shower curtain if you do not have one?
+预测: department store
+正确答案: department store
+是否正确: True
+
+样本 473:
+问题: Kissing is normally an activity reserved for your romantic what?
+预测: partner
+正确答案: partner
+是否正确: True
+
+样本 474:
+问题: What does a child learn to do before school?
+预测: count to ten
+正确答案: dress herself
+是否正确: False
+
+样本 475:
+问题: He was getting advice for the job interview, they told him when talking to the interviewer always make what?
+预测: eye contact
+正确答案: eye contact
+是否正确: True
+
+样本 476:
+问题: According to what book did an apple tree lead to the downfall of man?
+预测: harry potter
+正确答案: bible
+是否正确: False
+
+样本 477:
+问题: The neighborhood had a great sense of community, there was always a crowd at the landing of the what?
+预测: apartment building
+正确答案: apartment building
+是否正确: True
+
+样本 478:
+问题: What might a kind person do?
+预测: talk to themselves
+正确答案: open doors
+是否正确: False
+
+样本 479:
+问题: What will a person do at work?
+预测: falling down
+正确答案: make money
+是否正确: False
+
+样本 480:
+问题: John saw a fox running along the beach and was glad to be on the east coast.  Where might he have been?
+预测: south carolina
+正确答案: south carolina
+是否正确: True
+
+样本 481:
+问题: Name a location where you would not want to find mice.
+预测: countryside
+正确答案: attic
+是否正确: False
+
+样本 482:
+问题: The man started to learn jogging, what was he hoping to do?
+预测: getting in shape
+正确答案: getting in shape
+是否正确: True
+
+样本 483:
+问题: Where do most people turn to get information on their phones?
+预测: internet
+正确答案: google
+是否正确: False
+
+样本 484:
+问题: What happens to a body after death?
+预测: decomposition
+正确答案: decomposition
+是否正确: True
+
+样本 485:
+问题: What type of non-vegetarian soup is one likely to find a potato?
+预测: clam chowder
+正确答案: clam chowder
+是否正确: True
+
+样本 486:
+问题: Though she had a disability, what did her encouraging and positive coach see in her?
+预测: potential
+正确答案: potential
+是否正确: True
+
+样本 487:
+问题: They had a theory of what they could do in t he big game, so over and over they would what?
+预测: practice
+正确答案: practice
+是否正确: True
+
+样本 488:
+问题: When you see something rise, you are where in relation to it?
+预测: below
+正确答案: below
+是否正确: True
+
+样本 489:
+问题: They were getting ready for a really long hike, he put the food can in his what?
+预测: backpack
+正确答案: backpack
+是否正确: True
+
+样本 490:
+问题: Where would you keep a rug near your front door?
+预测: living room
+正确答案: living room
+是否正确: True
+
+样本 491:
+问题: When you slip from a ladder propped on anything what will you do?
+预测: fall down
+正确答案: fall down
+是否正确: True
+
+样本 492:
+问题: What do you do when you need to get food?
+预测: refrigerators
+正确答案: shop
+是否正确: False
+
+样本 493:
+问题: Brad tried to arise from bed but he could not.  Instead, he just continued to do what?
+预测: lie down
+正确答案: lie down
+是否正确: True
+
+样本 494:
+问题: If a heifer is really high quality, you might take her where?
+预测: dairy farm
+正确答案: cattle show
+是否正确: False
+
+样本 495:
+问题: What do people want to acquire from opening business?
+预测: bankruptcy
+正确答案: wealth
+是否正确: False
+
+样本 496:
+问题: What has someone who had finished their undergraduate done?
+预测: graduated
+正确答案: graduated
+是否正确: True
+
+样本 497:
+问题: Where are bus stops more common in what parts?
+预测: towns
+正确答案: urban area
+是否正确: False
+
+样本 498:
+问题: Bill wanted to pick up a stranger, preferably a responsible one with kids.  Where might he look for one?
+预测: train station
+正确答案: park
+是否正确: False
+
+样本 499:
+问题: Where might a lemur frolic in the market?
+预测: rain forest
+正确答案: india
+是否正确: False
+
+样本 500:
+问题: What might I place under the furniture?
+预测: rug
+正确答案: rug
+是否正确: True
+
+样本 501:
+问题: Everybody began performing once their director stated what?
+预测: action
+正确答案: action
+是否正确: True
+
+样本 502:
+问题: By learning about the world, many poor college students gain what?
+预测: greater mobility
+正确答案: desire to travel
+是否正确: False
+
+样本 503:
+问题: Where are required to carry books all day?
+预测: university
+正确答案: university
+是否正确: True
+
+样本 504:
+问题: where is seaweed from?
+预测: ocean
+正确答案: ocean
+是否正确: True
+
+样本 505:
+问题: how can i store cooked steak?
+预测: freezer
+正确答案: freezer
+是否正确: True
+
+样本 506:
+问题: John wanted to clean all of the dust out of his place before settling down to watch his favorite shows.  What might he hardest do dust?
+预测: under the bed
+正确答案: attic
+是否正确: False
+
+样本 507:
+问题: Something had the nerve to break into the garbage last night, what did it?
+预测: animal
+正确答案: animal
+是否正确: True
+
+样本 508:
+问题: Where would you go to get some pamphlets if you want to own them?
+预测: bookstore
+正确答案: bookstore
+是否正确: True
+
+样本 509:
+问题: The audience cheered when a goal was scored, what were they spectating?
+预测: sporting event
+正确答案: sporting event
+是否正确: True
+
+样本 510:
+问题: What western state has thousands of miles of shore?
+预测: california
+正确答案: california
+是否正确: True
+
+样本 511:
+问题: Everybody seemed to be crying at the holy site, the tour guide explained that this was what?
+预测: profane
+正确答案: common
+是否正确: False
+
+样本 512:
+问题: The smile gave away that the what was one of happiness?
+预测: rainbow
+正确答案: cry
+是否正确: False
+
+样本 513:
+问题: Where is a public monument likely to be erected by a city?
+预测: municipal park
+正确答案: municipal park
+是否正确: True
+
+样本 514:
+问题: Where would a person live if they wanted no neighbors?
+预测: suburbs
+正确答案: woods
+是否正确: False
+
+样本 515:
+问题: Where is the control room that controls a PWR located?
+预测: nuclear power plant
+正确答案: nuclear power plant
+是否正确: True
+
+样本 516:
+问题: What happens to a dog before someone puts up posters of them?
+预测: trained
+正确答案: get lost
+是否正确: False
+
+样本 517:
+问题: Where are the most famous BBQ steakhouses in america?
+预测: kansas city
+正确答案: texas
+是否正确: False
+
+样本 518:
+问题: He kept plugging away in his cubicle, it seemed he was the only person not called into the what?
+预测: conference
+正确答案: conference
+是否正确: True
+
+样本 519:
+问题: If you're attending school and are falling asleep you're likely experiencing what?
+预测: boredom
+正确答案: boredom
+是否正确: True
+
+样本 520:
+问题: I want to buy a gong, where should I look for one?
+预测: chinatown
+正确答案: music store
+是否正确: False
+
+样本 521:
+问题: What would friends do if they need each others' help?
+预测: understand each other
+正确答案: group together
+是否正确: False
+
+样本 522:
+问题: When people are playing a game, what is their motivation to play?
+预测: desire to win
+正确答案: desire to win
+是否正确: True
+
+样本 523:
+问题: Where could there be a battle that involves words?
+预测: court room
+正确答案: court room
+是否正确: True
+
+样本 524:
+问题: John didn't mind getting in line.  It was what game after that he hated.  The time, the sore feet. He did not like doing what?
+预测: standing in line
+正确答案: standing in line
+是否正确: True
+
+样本 525:
+问题: What is the process of going somewhere?
+预测: staying in place
+正确答案: transporting
+是否正确: False
+
+样本 526:
+问题: The old man needed to have rest multiple times a day, he would do what on the couch and catnap?
+预测: lie down
+正确答案: lie down
+是否正确: True
+
+样本 527:
+问题: The end of the barrel of what primitive firearm is bell shaped?
+预测: blunderbuss
+正确答案: blunderbuss
+是否正确: True
+
+样本 528:
+问题: Where is a good place to store pamphlets in your home or office?
+预测: drawer
+正确答案: drawer
+是否正确: True
+
+样本 529:
+问题: Many humans enjoy fishing and enjoy another relaxing activity at the same time, what activity is it?
+预测: drink beer
+正确答案: drink beer
+是否正确: True
+
+样本 530:
+问题: Where would you get some maps that you own?
+预测: bookstore
+正确答案: cabinet
+是否正确: False
+
+样本 531:
+问题: Where is a good place to put a hamburger?
+预测: fast food restaurant
+正确答案: mouth
+是否正确: False
+
+样本 532:
+问题: Where is a handy place to store a steel pen in your office?
+预测: desk drawer
+正确答案: desk drawer
+是否正确: True
+
+样本 533:
+问题: A story about World War II would be set when?
+预测: past
+正确答案: past
+是否正确: True
+
+样本 534:
+问题: What type of geographic area will you find a marmot?
+预测: mountainous area
+正确答案: mountainous area
+是否正确: True
+
+样本 535:
+问题: Most people make stupid assumptions that are based on their prejudices.  What might they do instead to achieve better outcomes?
+预测: think
+正确答案: think
+是否正确: True
+
+样本 536:
+问题: What is something children can do while traveling in a car?
+预测: listen to music
+正确答案: listen to music
+是否正确: True
+
+样本 537:
+问题: Where would you hear a trumpet along with other instruments made from the same material?
+预测: orchestra
+正确答案: brass band
+是否正确: False
+
+样本 538:
+问题: The audience listened to the orchestra play, where were they watching the performance?
+预测: concert hall
+正确答案: concert hall
+是否正确: True
+
+样本 539:
+问题: Stabbing to death of a person is what sort of way to die?
+预测: gruesome
+正确答案: gruesome
+是否正确: True
+
+样本 540:
+问题: What are you getting from you boss at the end of the week?
+预测: money
+正确答案: money
+是否正确: True
+
+样本 541:
+问题: If you have a ticket and you are planning to eat hot dogs, where would you go?
+预测: baseball stadium
+正确答案: baseball stadium
+是否正确: True
+
+样本 542:
+问题: Where is a great place to buy fresh fruit?
+预测: refrigerator
+正确答案: market
+是否正确: False
+
+样本 543:
+问题: The man took paperwork to other people to consult over it, where was he heading?
+预测: meeting
+正确答案: meeting
+是否正确: True
+
+样本 544:
+问题: Stark was just having fun, and he wasn't hurting anyone.  What might have he been doing?
+预测: playing marbles
+正确答案: playing marbles
+是否正确: True
+
+样本 545:
+问题: The church was giving assistance, what were they hoping to accomplish?
+预测: helping others
+正确答案: helping others
+是否正确: True
+
+样本 546:
+问题: I you believe in god, where will you go when you die?
+预测: heaven
+正确答案: heaven
+是否正确: True
+
+样本 547:
+问题: What can eating hamburger cause immediately after eating it?
+预测: indigestion
+正确答案: indigestion
+是否正确: True
+
+样本 548:
+问题: Where is a shelf likely to be hidden behind a door?
+预测: refrigerator
+正确答案: cupboard
+是否正确: False
+
+样本 549:
+问题: The man got a pail to catch the draining motor oil, where was he likely doing this at home?
+预测: garage
+正确答案: garage
+是否正确: True
+
+样本 550:
+问题: What kind of cold storage could you find in your house?
+预测: refrigerator
+正确答案: refrigerator
+是否正确: True
+
+样本 551:
+问题: Where could you go to between 1000 and 10000 restaurant?
+预测: big city
+正确答案: big city
+是否正确: True
+
+样本 552:
+问题: The pitcher stepped on the mound ready to throw, where was he located specifically?
+预测: baseball diamond
+正确答案: baseball diamond
+是否正确: True
+
+样本 553:
+问题: Where is a statute found on a platform?
+预测: arena
+正确答案: museum
+是否正确: False
+
+样本 554:
+问题: If it's not used for hair a round brush is an example of what?
+预测: hair brush
+正确答案: art supplies
+是否正确: False
+
+样本 555:
+问题: His parents thought he was suffering from boredom, but the teen loved to lay in bed and just do what?
+预测: listen to music
+正确答案: listen to music
+是否正确: True
+
+样本 556:
+问题: At the picnic she was stuck eating hamburger, she was worried because she forgot her chewables to prevent what?
+预测: food poisoning
+正确答案: heartburn
+是否正确: False
+
+样本 557:
+问题: The electrode wouldn't spark, it turned out that the what hadn't been connected?
+预测: electrolytic cell
+正确答案: battery
+是否正确: False
+
+样本 558:
+问题: For what entity should the government work?
+预测: democracy
+正确答案: country
+是否正确: False
+
+样本 559:
+问题: What must a student in engineering do?
+预测: be able to count
+正确答案: do mathematics
+是否正确: False
+
+样本 560:
+问题: The teacher knew her students understood division, what was she hoping they would learn next?
+预测: multiplication
+正确答案: multiplication
+是否正确: True
+
+样本 561:
+问题: There were times where kids wanted to know a definition, so there was a nice big dictionary in the what?
+预测: classroom
+正确答案: classroom
+是否正确: True
+
+样本 562:
+问题: Riding a bike for a long time can cause what?
+预测: fatigue
+正确答案: fatigue
+是否正确: True
+
+样本 563:
+问题: What could happen to a cat other than wanting food?
+预测: sharp claws
+正确答案: thirsty
+是否正确: False
+
+样本 564:
+问题: If you turn off the music in a room with no other noise that room would be what?
+预测: silent
+正确答案: silent
+是否正确: True
+
+样本 565:
+问题: In what country are the most fast food restaurants?
+预测: america
+正确答案: america
+是否正确: True
+
+样本 566:
+问题: I want to use string to keep something from moving, how should I do it?
+预测: tie around
+正确答案: tie around
+是否正确: True
+
+样本 567:
+问题: Where would walk through a central passage to catch an elevator?
+预测: public building
+正确答案: public building
+是否正确: True
+
+样本 568:
+问题: A potato is kept in the cellar, where is likely to be stored?
+预测: pantry
+正确答案: bushel basket
+是否正确: False
+
+样本 569:
+问题: What do people do when networking?
+预测: jump to conclusions
+正确答案: build trust
+是否正确: False
+
+样本 570:
+问题: Where can you store you spare linens near your socks?
+预测: dresser drawers
+正确答案: dresser drawers
+是否正确: True
+
+样本 571:
+问题: What do people do when they think too quickly?
+预测: jump to conclusions
+正确答案: jump to conclusions
+是否正确: True
+
+样本 572:
+问题: What is someone likely to want as a result of sex?
+预测: procreation
+正确答案: procreation
+是否正确: True
+
+样本 573:
+问题: What might someone do after they finish creating art?
+预测: enlightenment
+正确答案: relax
+是否正确: False
+
+样本 574:
+问题: To get clean clothes you to what to them?
+预测: launder
+正确答案: launder
+是否正确: True
+
+样本 575:
+问题: The person tried to reduce his weight with a shrink ray, but he got it backwards and only did what?
+预测: gain weight
+正确答案: make larger
+是否正确: False
+
+样本 576:
+问题: Christine couldn't be having a baby at her age, she thought to herself. What was Christine?
+预测: girl
+正确答案: old person
+是否正确: False
+
+样本 577:
+问题: Joe plays a percussion instrument in something.  What might be play in?
+预测: orchestra
+正确答案: orchestra
+是否正确: True
+
+样本 578:
+问题: If I'm playing ball, I'm mostly trying to do what?
+预测: having fun
+正确答案: having fun
+是否正确: True
+
+样本 579:
+问题: What do the terms need to be in order to compete against someone?
+预测: fair
+正确答案: fair
+是否正确: True
+
+样本 580:
+问题: If you wanted to show off silk, what item could it be on?
+预测: expensive clothing
+正确答案: expensive clothing
+是否正确: True
+
+样本 581:
+问题: Where is known to be a wealth of information?
+预测: library
+正确答案: library
+是否正确: True
+
+样本 582:
+问题: I saw the receptionist carelessly toss my resume into the drawer, where did I want it to end up?
+预测: file cabinet
+正确答案: office desk
+是否正确: False
+
+样本 583:
+问题: What will happen if you inject water into yourself?
+预测: wet clothes
+正确答案: thin blood
+是否正确: False
+
+样本 584:
+问题: Athletes soak in hot tubs to relieve what after playing baseball?
+预测: sore muscles
+正确答案: sore muscles
+是否正确: True
+
+样本 585:
+问题: What does a gambler do that causes him or her to be unhappy?
+预测: lose money
+正确答案: lose money
+是否正确: True
+
+样本 586:
+问题: There's one obvious reason to eat vegetables, they're plain what you?
+预测: good for
+正确答案: good for
+是否正确: True
+
+样本 587:
+问题: John was a bit think in the head, but he knew that he never saw the lady before.  They were what?
+预测: unacquainted
+正确答案: unacquainted
+是否正确: True
+
+样本 588:
+问题: Where would you hear a violin along side many string and wind instruments?
+预测: orchestra
+正确答案: orchestra
+是否正确: True
+
+样本 589:
+问题: What is the sun ultimately responsible for?
+预测: life on earth
+正确答案: life on earth
+是否正确: True
+
+样本 590:
+问题: Mandy lived in a train station.  She longed to see distant places. Where might she imagine going?
+预测: europe
+正确答案: europe
+是否正确: True
+
+样本 591:
+问题: Joe is a  squirrel, which is an animal. He probably lives in what sort of place.
+预测: outside
+正确答案: woodland
+是否正确: False
+
+样本 592:
+问题: Where could a personal ficus live?
+预测: tropical forest
+正确答案: front yard
+是否正确: False
+
+样本 593:
+问题: The shark actually counted as evidence, so where did the legal team bring it?
+预测: court room
+正确答案: court room
+是否正确: True
+
+样本 594:
+问题: If the president wanted to ban snakes, where would he issue such a decree?
+预测: white house
+正确答案: white house
+是否正确: True
+
+样本 595:
+问题: They were searching for rocks, so they missed the birds overhead as they stared at the what?
+预测: ground
+正确答案: ground
+是否正确: True
+
+样本 596:
+问题: Her son scraped his knee, she fetched a bottle of peroxide from the what?
+预测: medicine cabinet
+正确答案: medicine cabinet
+是否正确: True
+
+样本 597:
+问题: Where would you expect to find a dictionary along side other writings you can borrow?
+预测: library
+正确答案: library
+是否正确: True
+
+样本 598:
+问题: What would be necessary for getting in shape?
+预测: exercise
+正确答案: exercise
+是否正确: True
+
+样本 599:
+问题: A statue that shoots liquid is called a what?
+预测: water fountain
+正确答案: water fountain
+是否正确: True
+
+样本 600:
+问题: If you have a child who gets in trouble for being hyperactive you may need to teach them how to what down?
+预测: calm
+正确答案: calm
+是否正确: True
+
+样本 601:
+问题: John loved to paint houses.  How did he usually do it?
+预测: with brush
+正确答案: with brush
+是否正确: True
+
+样本 602:
+问题: When you wipe you feet on the door mat and walk through the door where do you enter?
+预测: living room
+正确答案: living room
+是否正确: True
+
+样本 603:
+问题: What can you use to store a book while traveling?
+预测: suitcase
+正确答案: suitcase
+是否正确: True
+
+样本 604:
+问题: Where would you find gazelle under a G?
+预测: encyclopedia
+正确答案: encyclopedia
+是否正确: True
+
+样本 605:
+问题: Competing can lead to great highs, and also great lows when suffering what?
+预测: defeat
+正确答案: defeat
+是否正确: True
+
+样本 606:
+问题: What blocks sunshine?
+预测: moon
+正确答案: moon
+是否正确: True
+
+样本 607:
+问题: When you feel too much heat in your home you can turn on what?
+预测: air conditioning
+正确答案: air conditioning
+是否正确: True
+
+样本 608:
+问题: Where would you store a pillow case that is not in use?
+预测: kitchen cupboard
+正确答案: drawer
+是否正确: False
+
+样本 609:
+问题: If the kitten was going to grow up to be a mouser like it's mother, where should it spend most of it's time?
+预测: living room
+正确答案: farmhouse
+是否正确: False
+
+样本 610:
+问题: Where is that man buying silk from?
+预测: china
+正确答案: china
+是否正确: True
+
+样本 611:
+问题: Where is a teacher likely to keep her clavichord?
+预测: living room
+正确答案: music room
+是否正确: False
+
+样本 612:
+问题: Where are you if your bieifcase is going through an x-ray machine?
+预测: airport
+正确答案: airport
+是否正确: True
+
+样本 613:
+问题: They were kissing each other good bye, they had no worries because their relationship had a strong foundation of what?
+预测: trust
+正确答案: trust
+是否正确: True
+
+样本 614:
+问题: Why would you take a bus to work?
+预测: commute
+正确答案: commute
+是否正确: True
+
+样本 615:
+问题: If you are hungry and going fishing, why would you be going fishing?
+预测: catching fish
+正确答案: catching fish
+是否正确: True
+
+样本 616:
+问题: Dogs are very loyal if they have a good owner, they will always what them?
+预测: defend
+正确答案: defend
+是否正确: True
+
+样本 617:
+问题: What does a farmer need to do to make  a maze on his farm in the fall?
+预测: plant seeds
+正确答案: grow corn
+是否正确: False
+
+样本 618:
+问题: For many males hair is a concern as they get older, it begins to what, causing a receding hairline?
+预测: thin out
+正确答案: fall out
+是否正确: False
+
+样本 619:
+问题: What happens someone who is bad play poker?
+预测: losing money
+正确答案: losing money
+是否正确: True
+
+样本 620:
+问题: John loved his snake.  It was the only ting he loved. He hated everyone else and was abrasive to most people, but he loved his snake.   How might you describe the snake?
+预测: pet
+正确答案: pet
+是否正确: True
+
+样本 621:
+问题: The fresh herbs, flowers, and vegetables will shrivel up if people don't do this?
+预测: believe in god
+正确答案: water plants
+是否正确: False
+
+样本 622:
+问题: I picked from an apple tree outside of Fort Wayne, where am I?
+预测: indiana
+正确答案: indiana
+是否正确: True
+
+样本 623:
+问题: The janitor never had much to clean after services, but there was still always a paper or two to pick up where?
+预测: grocery store
+正确答案: synagogue
+是否正确: False
+
+样本 624:
+问题: If you're celebrating with too many cocktails what may you have in the morning?
+预测: headache
+正确答案: hang over
+是否正确: False
+
+样本 625:
+问题: Danny found an old film in a sealed what?
+预测: cabinet
+正确答案: cabinet
+是否正确: True
+
+样本 626:
+问题: Where are you likely to find much more than a drop of blood on the floor?
+预测: crime scene
+正确答案: slaughter house
+是否正确: False
+
+样本 627:
+问题: Where is the first place someone leaving the planet ends up?
+预测: outer space
+正确答案: outer space
+是否正确: True
+
+样本 628:
+问题: The town house went right to the curb, a slot effectively made a mailbox of the what?
+预测: front door
+正确答案: front door
+是否正确: True
+
+样本 629:
+问题: The architect thought that a mezzanine would look good, but the planning committee rejected it.  They told the architect that they felt it was a potential hazard given the ages of the people who would be using it.  What might they be designing?
+预测: concert hall
+正确答案: school
+是否正确: False
+
+样本 630:
+问题: The person wasn't bothered by the weather, she had remembered to bring her what?
+预测: warm coat
+正确答案: warm coat
+是否正确: True
+
+样本 631:
+问题: If you want to learn about the world and understand the real reasons behind cultural norms and mores, you have achieved a sense of what?
+预测: enlightenment
+正确答案: enlightenment
+是否正确: True
+
+样本 632:
+问题: What is the hopeful result of going to see a play?
+预测: being entertained
+正确答案: being entertained
+是否正确: True
+
+样本 633:
+问题: A person would join a trade school for finding information related to what?
+预测: gaining knowledge
+正确答案: gaining knowledge
+是否正确: True
+
+样本 634:
+问题: Joan was a baby, so there were many things she couldn't do, which caused problems for her parents.  Name one thing that makes raising a baby difficult.
+预测: learn to walk
+正确答案: talk nonsense
+是否正确: False
+
+样本 635:
+问题: Where would you put some ham if you want to cook it?
+预测: refrigerator
+正确答案: pizza
+是否正确: False
+
+样本 636:
+问题: Running errands with screaming kids will likely cause what?
+预测: stress
+正确答案: aggravation
+是否正确: False
+
+样本 637:
+问题: Sam wasn't lying, but he left out important details. He was being what?
+预测: dishonesty
+正确答案: deceitful
+是否正确: False
+
+样本 638:
+问题: what does someone have that causes them committing murder?
+预测: go to jail
+正确答案: problems
+是否正确: False
+
+样本 639:
+问题: What kind of place has a leader?
+预测: organization
+正确答案: country
+是否正确: False
+
+样本 640:
+问题: How is a person likely to communicatewith others?
+预测: thank god
+正确答案: say words
+是否正确: False
+
+样本 641:
+问题: Where may you be if you're buying pork chops at a corner shop?
+预测: england
+正确答案: iowa
+是否正确: False
+
+样本 642:
+问题: Where is a well used toy car likely to be found?
+预测: child's room
+正确答案: child's room
+是否正确: True
+
+样本 643:
+问题: Where can fisherman store their rods when on a fishing trip?
+预测: sporting goods store
+正确答案: fishing camp
+是否正确: False
+
+样本 644:
+问题: Danny is having fun just dancing and singing with his friends. He wasn't concerned with things that weren't fun. For him having fun is the same as what?
+预测: being happy
+正确答案: being happy
+是否正确: True
+
+样本 645:
+问题: Where would you find an office worker gossiping with their colleagues?
+预测: water cooler
+正确答案: water cooler
+是否正确: True
+
+样本 646:
+问题: Where would you put nails if they are already packaged?
+预测: cabinet
+正确答案: cabinet
+是否正确: True
+
+样本 647:
+问题: What is a person who is good at sports considered?
+预测: talented
+正确答案: talented
+是否正确: True
+
+样本 648:
+问题: The man acted ridiculous at the funeral, what attitude should he have taken?
+预测: serious
+正确答案: solemn
+是否正确: False
+
+样本 649:
+问题: The pencil sharpener was broken in the classroom, where did the teacher recommend the student go?
+预测: desk drawer
+正确答案: library
+是否正确: False
+
+样本 650:
+问题: Where does a child likely sit at a desk?
+预测: furniture store
+正确答案: schoolroom
+是否正确: False
+
+样本 651:
+问题: He was trying to procreate with many individuals, this led to a what?
+预测: moaning
+正确答案: std
+是否正确: False
+
+样本 652:
+问题: What does playing soccer and winning lead to?
+预测: excitement
+正确答案: excitement
+是否正确: True
+
+样本 653:
+问题: What attraction is sometimes so large that you need a map to find your way around?
+预测: amusement park
+正确答案: amusement park
+是否正确: True
+
+样本 654:
+问题: If my husband never helps me doing housework, what might that lead to?
+预测: exhaustion
+正确答案: arguments
+是否正确: False
+
+样本 655:
+问题: The advertisement came in the form of a pop-up, where did it appear?
+预测: web page
+正确答案: web page
+是否正确: True
+
+样本 656:
+问题: WHere do people live?
+预测: apartment
+正确答案: surface of earth
+是否正确: False
+
+样本 657:
+问题: People are what when you're a stranger?
+预测: strange
+正确答案: strange
+是否正确: True
+
+样本 658:
+问题: The juror was quite bored and zoning out but wanted to convey he was hearing testimony, so he just sat there doing what?
+预测: nodding
+正确答案: nodding
+是否正确: True
+
+样本 659:
+问题: They wanted to try blowfish, so they went to get some where?
+预测: aquarium
+正确答案: fish market
+是否正确: False
+
+样本 660:
+问题: When a main artery is used to expedite travel what would it be referred to as?
+预测: thruway
+正确答案: thruway
+是否正确: True
+
+样本 661:
+问题: If someone rules the universe of what are they in charge?
+预测: everything
+正确答案: everything
+是否正确: True
+
+样本 662:
+问题: The butt was bare, and Sam couldn't stop staring at it.  It was very what?
+预测: covered
+正确答案: ample
+是否正确: False
+
+样本 663:
+问题: Where can many stores with clothing be found?
+预测: mall
+正确答案: mall
+是否正确: True
+
+样本 664:
+问题: After working on the car, what did it end up doing?
+预测: going too fast
+正确答案: start running
+是否正确: False
+
+样本 665:
+问题: When an elderly person needs help performing daily tasks, who might they call?
+预测: caregiver
+正确答案: caregiver
+是否正确: True
+
+样本 666:
+问题: Where is beer drank by people watching sticks and pucks?
+预测: hockey game
+正确答案: hockey game
+是否正确: True
+
+样本 667:
+问题: Where is there a telephone book in almost every room?
+预测: closet
+正确答案: at hotel
+是否正确: False
+
+样本 668:
+问题: Where might you see a green field while driving?
+预测: countryside
+正确答案: countryside
+是否正确: True
+
+样本 669:
+问题: Some people got escorted out of the library, they were probably what?
+预测: talking loudly
+正确答案: talking loudly
+是否正确: True
+
+样本 670:
+问题: If there is a pond with trees around it, where it it likely located?
+预测: countryside
+正确答案: forest
+是否正确: False
+
+样本 671:
+问题: Blowfish require what specific thing to live?
+预测: body of water
+正确答案: sea water
+是否正确: False
+
+样本 672:
+问题: What is the least likely immediate side effect of eating hamburger?
+预测: nausea
+正确答案: death
+是否正确: False
+
+样本 673:
+问题: What would I be doing while going to work and walking?
+预测: driving
+正确答案: listen to radio
+是否正确: False
+
+样本 674:
+问题: A showroom feature washers and refrigerators, where is this showroom located?
+预测: electronics store
+正确答案: appliance store
+是否正确: False
+
+样本 675:
+问题: The man often made smart remarks, like that any restaurant is a mexican restaurant where?
+预测: mexico
+正确答案: mexico
+是否正确: True
+
+样本 676:
+问题: I am looking for honey right from the source, where should I look?
+预测: farmer's market
+正确答案: beehive
+是否正确: False
+
+样本 677:
+问题: Where are there likely to be a variety of flats to choose from?
+预测: london
+正确答案: city
+是否正确: False
+
+样本 678:
+问题: A weasel has a thin body and short legs to easier burrow after prey in a what?
+预测: rabbit warren
+正确答案: rabbit warren
+是否正确: True
+
+样本 679:
+问题: What can disease destroy?
+预测: human body
+正确答案: human body
+是否正确: True
+
+样本 680:
+问题: What does a person from Avalon live in?
+预测: meaningful work
+正确答案: english house
+是否正确: False
+
+样本 681:
+问题: Where is one likely to find a fan for their stove?
+预测: appliance store
+正确答案: appliance store
+是否正确: True
+
+样本 682:
+问题: Jodie felt a tightness in her chest. She was worried but didn't want to go to the hospital. Where might she go instead?
+预测: antique shop
+正确答案: bedroom
+是否正确: False
+
+样本 683:
+问题: If you're buying beer for a float trip what are you preparing to do?
+预测: have fun
+正确答案: have fun
+是否正确: True
+
+样本 684:
+问题: Piece of land in Canada where you can find marmot?
+预测: vancouver island
+正确答案: vancouver island
+是否正确: True
+
+样本 685:
+问题: The surgeon's clients had begun to reduce, it seemed girls no longer want to what?
+预测: gain weight
+正确答案: augment
+是否正确: False
+
+样本 686:
+问题: While waiting for this appointment, people often read magazines.
+预测: doctor
+正确答案: doctor
+是否正确: True
+
+样本 687:
+问题: Where would you find a fox that is made up?
+预测: woods
+正确答案: storybook
+是否正确: False
+
+样本 688:
+问题: In basic training they build you up only to do what, all in hopes of building you up even stronger the next time?
+预测: tear down
+正确答案: tear down
+是否正确: True
+
+样本 689:
+问题: Billy saw a dog running from him and did his best to get away from it.  The leaped up to where the dog couldn't reach and was stuck.  Where might he have been trapped?
+预测: porch
+正确答案: table
+是否正确: False
+
+样本 690:
+问题: John and Judy were parents.  They had two wonderful kids who weren't always well behaved.  They were light tough, though.  They felt it was a parent's job to do what?
+预测: understand children
+正确答案: guide children
+是否正确: False
+
+样本 691:
+问题: What are you playing if you're fiddling on a violin?
+预测: bluegrass music
+正确答案: bluegrass music
+是否正确: True
+
+样本 692:
+问题: If somebody buys something and gives it to me as a free gift, what is the cost status of the gift?
+预测: expensive
+正确答案: paid for
+是否正确: False
+
+样本 693:
+问题: Why does someone flirt with many people at once?
+预测: attract attention
+正确答案: attract attention
+是否正确: True
+
+样本 694:
+问题: James tore the antenna off of his boat due to bad reception as he was crossing the channel from France.  Where was he going?
+预测: england
+正确答案: england
+是否正确: True
+
+样本 695:
+问题: Why would a band be performing when there are no people nearby?
+预测: practice
+正确答案: record album
+是否正确: False
+
+样本 696:
+问题: The dogs were protecting their own when they decided to what the bad man?
+预测: attack
+正确答案: attack
+是否正确: True
+
+样本 697:
+问题: What is used to grind wheat for bread?
+预测: mill
+正确答案: mill
+是否正确: True
+
+样本 698:
+问题: If you have a large satchel with you when you fly you'll be asked to store it where?
+预测: luggage compartment
+正确答案: luggage compartment
+是否正确: True
+
+样本 699:
+问题: Where would someone keep their nylon leggings?
+预测: drawer
+正确答案: drawer
+是否正确: True
+
+样本 700:
+问题: If you spend a long time running after a ball how are you likely to feel?
+预测: tiredness
+正确答案: tiredness
+是否正确: True
+
+样本 701:
+问题: When you need to rest it's often because you have been doing what?
+预测: sleeping
+正确答案: using energy
+是否正确: False
+
+样本 702:
+问题: Boredom and hunger led to a wandering waste of time and a cart full of unhealthy snacks during her trip to where?
+预测: grocery shop
+正确答案: grocery shop
+是否正确: True
+
+样本 703:
+问题: He was beginning to worry they wouldn't get on the ride before closing, they had been standing in queue for a long what?
+预测: time
+正确答案: time
+是否正确: True
+
+样本 704:
+问题: This is an unavoidable physiological consequence of running.  What is it?
+预测: increased heart rate
+正确答案: increased heart rate
+是否正确: True
+
+样本 705:
+问题: Sometimes a person has a fear of water or a dislike of being wet, it is still important to make sure they are having a bath why?
+预测: drowning
+正确答案: rash
+是否正确: False
+
+样本 706:
+问题: Where would there be an auditorium with only a single person speaking?
+预测: university campus
+正确答案: university campus
+是否正确: True
+
+样本 707:
+问题: To get out of there the person had to keep on walking, they had to keep on what?
+预测: moving forward
+正确答案: moving forward
+是否正确: True
+
+样本 708:
+问题: What very large group of western citizens has bees everywhere?
+预测: united states
+正确答案: united states
+是否正确: True
+
+样本 709:
+问题: Miss Grady took a stick from Bob because he was playing with it during class.  She wanted to make sure that he couldn't get to it so she put it where?
+预测: desk drawer
+正确答案: desk drawer
+是否正确: True
+
+样本 710:
+问题: How does a person begin reproducing?
+预测: genetic mutation
+正确答案: have sex
+是否正确: False
+
+样本 711:
+问题: Joe and Jill didn't want their children to be sedentary.  They might limit the time they children spend doing what?
+预测: play with toys
+正确答案: watch tv
+是否正确: False
+
+样本 712:
+问题: They were making sauerkraut, the instructor explained the liquid should be above the cabbage in the what?
+预测: jar
+正确答案: jar
+是否正确: True
+
+样本 713:
+问题: From where would you normally take a cup when you're about to get a drink?
+预测: dishwasher
+正确答案: kitchen cabinet
+是否正确: False
+
+样本 714:
+问题: What are you using if there are speakers strapped on your ears?
+预测: headphones
+正确答案: headphones
+是否正确: True
+
+样本 715:
+问题: Because of his anger he couldn't clearly explain or what?
+预测: illustrate point
+正确答案: illustrate point
+是否正确: True
+
+样本 716:
+问题: Where is likely to not just have a kosher restaurant?
+预测: new york city
+正确答案: new york city
+是否正确: True
+
+样本 717:
+问题: The bald eagle flew from Mount St Helen's to the Puget Sound and all over what?
+预测: pacific northwest
+正确答案: washington state
+是否正确: False
+
+样本 718:
+问题: Where could you get some knives if you are planning to bring them outside with you?
+预测: sporting goods store
+正确答案: kitchen
+是否正确: False
+
+样本 719:
+问题: How can people fulfill their own calorie requirements?
+预测: talk to each other
+正确答案: feed themselves
+是否正确: False
+
+样本 720:
+问题: What does a stove do to the place that it's in?
+预测: warm room
+正确答案: warm room
+是否正确: True
+
+样本 721:
+问题: What is the best way to begin going into trance?
+预测: religious experience
+正确答案: closed eyes
+是否正确: False
+
+样本 722:
+问题: A computer user working on an important work assignment is located in what structure?
+预测: internet cafe
+正确答案: office building
+是否正确: False
+
+样本 723:
+问题: The music was festive but why are the horses dancing in circles
+预测: carnival
+正确答案: carnival
+是否正确: True
+
+样本 724:
+问题: In the building where James worked there was a small mezzanine in the auditorium to make more space for seats.  Where might James work?
+预测: concert hall
+正确答案: theater
+是否正确: False
+
+样本 725:
+问题: If you aren't well rested and it's a rainy day what might you do?
+预测: stay in bed
+正确答案: stay in bed
+是否正确: True
+
+样本 726:
+问题: Where would you have a stove if you don't live in a detached dwelling?
+预测: apartment
+正确答案: apartment
+是否正确: True
+
+样本 727:
+问题: What kind of place has a revolving door and has things to buy in it?
+预测: mall
+正确答案: mall
+是否正确: True
+
+样本 728:
+问题: Where can books be read?
+预测: shelf
+正确答案: table
+是否正确: False
+
+样本 729:
+问题: Where is seaweed usually found alive?
+预测: ocean
+正确答案: water
+是否正确: False
+
+样本 730:
+问题: If a lizard is fed by people every day, what has happened to it?
+预测: captivity
+正确答案: captivity
+是否正确: True
+
+样本 731:
+问题: What will happen to someone if his or her spirits cannot elevate?
+预测: decrease
+正确答案: depress
+是否正确: False
+
+样本 732:
+问题: If you wanted a license to catch crabs, what government office would you go to?
+预测: chesapeake bay
+正确答案: fish department
+是否正确: False
+
+样本 733:
+问题: What furniture will you normally find near a side chair?
+预测: table
+正确答案: table
+是否正确: True
+
+样本 734:
+问题: Metal is used to make what?
+预测: instruments
+正确答案: instruments
+是否正确: True
+
+样本 735:
+问题: What is the word added to Manchester that signifies what county it is in?
+预测: lancashire
+正确答案: greater manchester
+是否正确: False
+
+样本 736:
+问题: The program kept getting errors, the amateur end user began to what?
+预测: get frustrated
+正确答案: get frustrated
+是否正确: True
+
+样本 737:
+问题: John knew that the sun produced a massive amount of energy in two forms.  If you were on the surface of the sun, what would kill you first?
+预测: heat
+正确答案: heat
+是否正确: True
+
+样本 738:
+问题: Lawyers often talk in front of an audience where?
+预测: courtroom
+正确答案: courtroom
+是否正确: True
+
+样本 739:
+问题: James bought a new set of tire chains and put them somewhere he could find them.  Where would he put them?
+预测: garage
+正确答案: garage
+是否正确: True
+
+样本 740:
+问题: If I wanted to eat something that is made from plants and needs to be washed, what would it be?
+预测: roots
+正确答案: roots
+是否正确: True
+
+样本 741:
+问题: Ficus can be planted in a yard to make summer more bearable, what sort of areas do they create?
+预测: screened porch
+正确答案: shady places
+是否正确: False
+
+样本 742:
+问题: Children's behavior is a direct reflection of their what?
+预测: parents
+正确答案: parents
+是否正确: True
+
+样本 743:
+问题: Most people who are family like to greet each other with a what?
+预测: hug
+正确答案: hug
+是否正确: True
+
+样本 744:
+问题: John bought a new water hose.  But he found his old one near his car.  Where did he find the old one?
+预测: garage
+正确答案: garage
+是否正确: True
+
+样本 745:
+问题: Where is a control room needed to prevent wide spread disaster?
+预测: nuclear plant
+正确答案: nuclear plant
+是否正确: True
+
+样本 746:
+问题: Where do you keep your pizza slice before you eat it?
+预测: restaurant
+正确答案: plate
+是否正确: False
+
+样本 747:
+问题: Everybody was changing into costumes in the dressing room, it was almost time to take the what stage?
+预测: actors and actresses
+正确答案: theater
+是否正确: False
+
+样本 748:
+问题: The homeowner frowned at the price of gas, what did he have to do later?
+预测: receive mail
+正确答案: cut grass
+是否正确: False
+
+样本 749:
+问题: A thoroughfare meandered through fields and woods, where was it passing though?
+预测: new york city
+正确答案: country
+是否正确: False
+
+样本 750:
+问题: If I want a new ottoman, where should I go?
+预测: furniture store
+正确答案: furniture store
+是否正确: True
+
+样本 751:
+问题: Sean was leaving work and took the roadway that led to his what?
+预测: neighborhood
+正确答案: neighborhood
+是否正确: True
+
+样本 752:
+问题: What can you use to get a jellyfish?
+预测: mediterranean sea
+正确答案: hand
+是否正确: False
+
+样本 753:
+问题: What has a shelf that does not allow you to see what is inside of it?
+预测: chest of drawers
+正确答案: chest of drawers
+是否正确: True
+
+样本 754:
+问题: What will likely happen after stabbing to death a person?
+预测: being arrested
+正确答案: being arrested
+是否正确: True
+
+样本 755:
+问题: The boat passenger was explaining his fear of blowfish, but the captain figured he meant piranhas since they were on a river in the what?
+预测: jungle
+正确答案: jungle
+是否正确: True
+
+样本 756:
+问题: Where could you find only a few office?
+预测: skyscraper
+正确答案: school building
+是否正确: False
+
+样本 757:
+问题: Where can I go to be a religious gentleman?
+预测: church
+正确答案: church
+是否正确: True
+
+样本 758:
+问题: I want to see a prepared slide up close, what would I use to help?
+预测: microscope
+正确答案: microscope
+是否正确: True
+
+样本 759:
+问题: Where can you buy a magazine, paper or gum?
+预测: newsstand
+正确答案: newsstand
+是否正确: True
+
+样本 760:
+问题: Where would you get some wood if you do not have any?
+预测: lumberyard
+正确答案: lumberyard
+是否正确: True
+
+样本 761:
+问题: The pitcher felt stress and tension on the mound, what did he feel like?
+预测: baseball stadium
+正确答案: hell
+是否正确: False
+
+样本 762:
+问题: What negative effect can competing in a chess game on a cold day have?
+预测: frostbite
+正确答案: tension
+是否正确: False
+
+样本 763:
+问题: Why is it hard for a young child to read a long book?
+预测: knowledge
+正确答案: many words
+是否正确: False
+
+样本 764:
+问题: On a hot day what can you do to enjoy something cool and sweet?
+预测: eat ice cream
+正确答案: eat ice cream
+是否正确: True
+
+样本 765:
+问题: What is likely to be found in a book that is not a foreword?
+预测: epilogue
+正确答案: epilogue
+是否正确: True
+
+样本 766:
+问题: How many hours are in a day?
+预测: twenty four
+正确答案: twenty four
+是否正确: True
+
+样本 767:
+问题: Why is religion so hard to understand?
+预测: unknowable
+正确答案: confusing
+是否正确: False
+
+样本 768:
+问题: The couple explained they were having trouble communicating, it seemed every conversation took great what?
+预测: effort
+正确答案: effort
+是否正确: True
+
+样本 769:
+问题: What would a person need to do if his or her captain dies at sea?
+预测: experience life
+正确答案: man crew
+是否正确: False
+
+样本 770:
+问题: What do children require to grow up healthy?
+预测: wash dishes
+正确答案: need care
+是否正确: False
+
+样本 771:
+问题: I house outside the center of a community is said to be where?
+预测: residential area
+正确答案: subdivision
+是否正确: False
+
+样本 772:
+问题: The field general began to write out a letter to the king, he was told to send what when the enemy was near?
+预测: syllable
+正确答案: word
+是否正确: False
+
+样本 773:
+问题: What will you put on a pen to prevent it from drying out?
+预测: ink cartridges
+正确答案: caps
+是否正确: False
+
+样本 774:
+问题: After climbing the mountains, the explored found the cave, what was the general goegraphy of the region he found it in?
+预测: desert
+正确答案: rocky hills
+是否正确: False
+
+样本 775:
+问题: They dealt with combustible mixtures in their experiments, this is why they kept a fire extinguisher where?
+预测: chemistry lab
+正确答案: chemistry lab
+是否正确: True
+
+样本 776:
+问题: If someone mean wanted to insult somebody by calling them a fruit, where is probably not the smartest place to do it?
+预测: grocery store
+正确答案: gay bar
+是否正确: False
+
+样本 777:
+问题: Where would you get a toothpick if you do not have any?
+预测: grocery store
+正确答案: grocery store
+是否正确: True
+
+样本 778:
+问题: What would you be building if you designed a place for an annoying critter to stay?
+预测: cat condo
+正确答案: bug campers
+是否正确: False
+
+样本 779:
+问题: The man working in the attic swatted away a bee, but soon the single bee was an entire what?
+预测: swarm
+正确答案: swarm
+是否正确: True
+
+样本 780:
+问题: What do you need to wear when hiking?
+预测: physical exertion
+正确答案: shin splints
+是否正确: False
+
+样本 781:
+问题: What type of store would have lots of sports equipment?
+预测: sporting goods store
+正确答案: sporting goods store
+是否正确: True
+
+样本 782:
+问题: The business man was promoted recently, to celebrate he went where to buy an expensive wristwatch?
+预测: jewelry store
+正确答案: jewelry store
+是否正确: True
+
+样本 783:
+问题: How is a child eager to be going to play likely to get there?
+预测: enjoyment
+正确答案: rush
+是否正确: False
+
+样本 784:
+问题: There's some new buying products designed to get you money if you have none. The first step is that it will show you how to declare what?
+预测: bankruptcy
+正确答案: bankruptcy
+是否正确: True
+
+样本 785:
+问题: Where can you buy a replacement ax handle?
+预测: hardware store
+正确答案: hardware store
+是否正确: True
+
+样本 786:
+问题: Is that person acting as silly as a clown?
+预测: ridiculous
+正确答案: ridiculous
+是否正确: True
+
+样本 787:
+问题: Which group of states is Louisiana part of?
+预测: united states
+正确答案: gulf states
+是否正确: False
+
+样本 788:
+问题: Where would you put a plate immediately after eating from it?
+预测: dishwasher
+正确答案: dishwasher
+是否正确: True
+
+样本 789:
+问题: James couldn't get comfortable.  There was too much dirt.  He needed to clean out what?
+预测: bed
+正确答案: bed
+是否正确: True
+
+样本 790:
+问题: The rats were hiding in the house, where were they?
+预测: cellar
+正确答案: cellar
+是否正确: True
+
+样本 791:
+问题: What do people do when they don't understand something?
+预测: talk to each other
+正确答案: ask questions
+是否正确: False
+
+样本 792:
+问题: James saw a kite flying in the sky.  He traced the string back to its origin and found it.  Where did the string begin?
+预测: child's hand
+正确答案: child's hand
+是否正确: True
+
+样本 793:
+问题: What rubber toy filled with helium will make a child happy?
+预测: balloon
+正确答案: balloon
+是否正确: True
+
+样本 794:
+问题: Where do people get beer after a bit of gambling?
+预测: casino
+正确答案: casino
+是否正确: True
+
+样本 795:
+问题: What can happen to you when you are using television and it is not interesting?
+预测: fall asleep
+正确答案: fall asleep
+是否正确: True
+
+样本 796:
+问题: The business men left the discussion in the dressing room, now they just wanted to relax in the sauna of the what?
+预测: bathhouse
+正确答案: bathhouse
+是否正确: True
+
+样本 797:
+问题: Where is a likely place for an ivy plant?
+预测: outside
+正确答案: outside
+是否正确: True
+
+样本 798:
+问题: Where has the newest baseball stadium?
+预测: san francisco
+正确答案: phoenix
+是否正确: False
+
+样本 799:
+问题: What type of residence has a ground floor with a stoop?
+预测: brownstone
+正确答案: brownstone
+是否正确: True
+
+样本 800:
+问题: If the wood texture is not smooth it is what?
+预测: porous
+正确答案: porous
+是否正确: True
+
+样本 801:
+问题: What might happen if someone is not losing weight?
+预测: death
+正确答案: death
+是否正确: True
+
+样本 802:
+问题: Billy lived in the capital of his country, then he moved.  Where might he move to?
+预测: small town
+正确答案: small town
+是否正确: True
+
+样本 803:
+问题: Making a schedule was easy to pick, the major called for knowledge that required a certain what?
+预测: encyclopedia
+正确答案: class
+是否正确: False
+
+样本 804:
+问题: When getting in shape, this is something that does wonders?
+预测: jogging
+正确答案: jogging
+是否正确: True
+
+样本 805:
+问题: What could prevent a driving car from continuing to drive?
+预测: automobile accidents
+正确答案: automobile accidents
+是否正确: True
+
+样本 806:
+问题: Where do you store a large container?
+预测: cabinet
+正确答案: cabinet
+是否正确: True
+
+样本 807:
+问题: What is a person likely to experience after they stop being married to a mean person?
+预测: relief
+正确答案: happiness
+是否正确: False
+
+样本 808:
+问题: Despite the large crowds, how did the depressed man feel?
+预测: solitary
+正确答案: solitary
+是否正确: True
+
+样本 809:
+问题: Where does a maid empty a trash can?
+预测: alley
+正确答案: motel
+是否正确: False
+
+样本 810:
+问题: The dog curled up for a nap, it was tuckered out because it had just been what?
+预测: walked
+正确答案: walked
+是否正确: True
+
+样本 811:
+问题: He used an umbrella while tanning, where was he likely?
+预测: beach
+正确答案: beach
+是否正确: True
+
+样本 812:
+问题: What do the feathers look like on birds found in the rainforest?
+预测: very colorful
+正确答案: very colorful
+是否正确: True
+
+样本 813:
+问题: The ancient seafaring Norse tribesman brought pelts of weasel aboard his what?
+预测: viking ship
+正确答案: viking ship
+是否正确: True
+
+样本 814:
+问题: What is the opposite of an area of elevation?
+预测: depression
+正确答案: depression
+是否正确: True
+
+样本 815:
+问题: What do singers need to do before a show?
+预测: warm up
+正确答案: warm up
+是否正确: True
+
+样本 816:
+问题: When a person with mental illness receives medication and therapy, what has happened?
+预测: effectively treated
+正确答案: effectively treated
+是否正确: True
+
+样本 817:
+问题: What type of feeling is performing for the first time likely to produce?
+预测: anxiety
+正确答案: anxiety
+是否正确: True
+
+样本 818:
+问题: If someone is found to be committing murder, what did they do to someone?
+预测: go to jail
+正确答案: kill
+是否正确: False
+
+样本 819:
+问题: The computer was hooked up to the internet, what could it do as a result?
+预测: receive data
+正确答案: receive data
+是否正确: True
+
+样本 820:
+问题: The planet Mercury is unsuitable for human life or what?
+预测: uninhabitable
+正确答案: uninhabitable
+是否正确: True
+
+样本 821:
+问题: Seeing idea become reality was a dream of hers for a long time, but as the time came to get on stage she had more what?
+预测: anxiety
+正确答案: anxiety
+是否正确: True
+
+样本 822:
+问题: A creek could be located in the opposite for the city which is called what?
+预测: countryside
+正确答案: countryside
+是否正确: True
+
+样本 823:
+问题: Where off the eastern U.S. would you find an anemone?
+预测: florida keys
+正确答案: florida keys
+是否正确: True
+
+样本 824:
+问题: Where are traveling clothes often kept?
+预测: suitcase
+正确答案: suitcase
+是否正确: True
+
+样本 825:
+问题: If one needed the bathroom they needed a key, to get it they had to also buy something from the what?
+预测: convenience store
+正确答案: convenience store
+是否正确: True
+
+样本 826:
+问题: Although the sun did rise, what did the pessimist warn everyone it would do?
+预测: fall
+正确答案: go down
+是否正确: False
+
+样本 827:
+问题: The hardcovers were especially tall, so he removed a shelf on the what to make room?
+预测: chest of drawers
+正确答案: bookcase
+是否正确: False
+
+样本 828:
+问题: If you're watching a comedy film what would you expect to hear from the audience?
+预测: laughter
+正确答案: laughter
+是否正确: True
+
+样本 829:
+问题: What can eating lunch cause that is painful?
+预测: heartburn
+正确答案: heartburn
+是否正确: True
+
+样本 830:
+问题: The performer was ready to put on a show and stepped onto the launch platform, what was his job?
+预测: cape canaveral florida
+正确答案: trapeze
+是否正确: False
+
+样本 831:
+问题: Eating is part of living, but your body doesn't use it all and the next day you will be doing what?
+预测: defecating
+正确答案: defecating
+是否正确: True
+
+样本 832:
+问题: Where are you if you've paid to get a pizza?
+预测: restaurant
+正确答案: restaurant
+是否正确: True
+
+样本 833:
+问题: What would you use to find a place to stay?
+预测: phone book
+正确答案: phone book
+是否正确: True
+
+样本 834:
+问题: If you're seeking a connection for your laptop, what are you trying to hook up with?
+预测: computer network
+正确答案: computer network
+是否正确: True
+
+样本 835:
+问题: The child didn't know the problems his mother was going through, all he had was what for her?
+预测: care
+正确答案: loved
+是否正确: False
+
+样本 836:
+问题: To see new films you must?
+预测: go to movies
+正确答案: go to movies
+是否正确: True
+
+样本 837:
+问题: What can happen when you contemplate alone for a long time?
+预测: become distracted
+正确答案: daydream
+是否正确: False
+
+样本 838:
+问题: The pioneer went to the general store for storage measures, what was he looking for?
+预测: barrels
+正确答案: barrels
+是否正确: True
+
+样本 839:
+问题: I was apprehensive to buy the expensive equipment to play a game with so much walking and swinging around in grass, but now I understand why people what?
+预测: play golf
+正确答案: play golf
+是否正确: True
+
+样本 840:
+问题: What can a newspaper be used to do to an engagement?
+预测: inform
+正确答案: announce
+是否正确: False
+
+样本 841:
+问题: John needed a straight wire.  Unfortunately, this one had endured some abuse and had become what?
+预测: bent
+正确答案: bent
+是否正确: True
+
+样本 842:
+问题: Metal is taken from what which is pulled from the ground?
+预测: dirt
+正确答案: ore
+是否正确: False
+
+样本 843:
+问题: When not in use where on your property would you store you bucket?
+预测: outside
+正确答案: garden shed
+是否正确: False
+
+样本 844:
+问题: What does someone do to relax at night?
+预测: listen to music
+正确答案: go to bed
+是否正确: False
+
+样本 845:
+问题: Where might the stapler be if I cannot find it?
+预测: desk drawer
+正确答案: desk drawer
+是否正确: True
+
+样本 846:
+问题: Many homes in this country are built around a courtyard. Where is it?
+预测: spain
+正确答案: spain
+是否正确: True
+
+样本 847:
+问题: Sean was a wreck.  He  loved to build houses, but in his current state, he couldn't do what?
+预测: construct
+正确答案: construct
+是否正确: True
+
+样本 848:
+问题: What would be happening if you are pretending to be a police officer?
+预测: misunderstanding
+正确答案: deception
+是否正确: False
+
+样本 849:
+问题: Where would you buy a finely crafted writing instrument?
+预测: stationery store
+正确答案: stationery store
+是否正确: True
+
+样本 850:
+问题: The detective was finding information from witnesses, why would he do that?
+预测: happiness
+正确答案: get answers
+是否正确: False
+
+样本 851:
+问题: Joe found spiders in the place where he keeps his tools.  Where might that be?
+预测: garage
+正确答案: garage
+是否正确: True
+
+样本 852:
+问题: While on the fan boat he thought he'd see swamps and gators, but he was surprised to spot a bald eagle in what nature area?
+预测: everglades
+正确答案: everglades
+是否正确: True
+
+样本 853:
+问题: Where are you likely to find a supermarket?
+预测: strip mall
+正确答案: city or town
+是否正确: False
+
+样本 854:
+问题: Where would you need to use a lantern?
+预测: grocery store
+正确答案: dark place
+是否正确: False
+
+样本 855:
+问题: What area does a police officer patrol?
+预测: beat
+正确答案: beat
+是否正确: True
+
+样本 856:
+问题: Why would a woman kill a stranger she met in a dark alley?
+预测: get revenge
+正确答案: being raped
+是否正确: False
+
+样本 857:
+问题: The baby was cranky, it needed to eat breakfast but refused to what?
+预测: wake up
+正确答案: open mouth
+是否正确: False
+
+样本 858:
+问题: What is made up of people?
+预测: buildings
+正确答案: audience
+是否正确: False
+
+样本 859:
+问题: He was afraid he would die from his cold, so he wisely decided to what?
+预测: seek help
+正确答案: seek help
+是否正确: True
+
+样本 860:
+问题: Where would you get a pen if you do not have one?
+预测: desk drawer
+正确答案: friend's house
+是否正确: False
+
+样本 861:
+问题: Why would a small dog pant if it's hot outside?
+预测: outside
+正确答案: heat
+是否正确: False
+
+样本 862:
+问题: She asked her little boy why, he replied that he didn't know and it was just what?
+预测: because
+正确答案: because
+是否正确: True
+
+样本 863:
+问题: Where would you display a picture on a horizontal surface?
+预测: wall
+正确答案: shelf
+是否正确: False
+
+样本 864:
+问题: What skill is needed for riding a bike?
+预测: good balance
+正确答案: good balance
+是否正确: True
+
+样本 865:
+问题: He looked at the field of pumps, all slowing churning oil out of the what?
+预测: ground
+正确答案: ground
+是否正确: True
+
+样本 866:
+问题: The department to where vendors deliver goods for sale is called what?
+预测: receiving
+正确答案: receiving
+是否正确: True
+
+样本 867:
+问题: Where is the worst place to be in a ticket office?
+预测: end of line
+正确答案: end of line
+是否正确: True
+
+样本 868:
+问题: Exercise is very good for you, for faster recovery you should always do what afterwards?
+预测: stretch
+正确答案: stretch
+是否正确: True
+
+样本 869:
+问题: What happens when you go somewhere and forget something at home?
+预测: go back
+正确答案: go back
+是否正确: True
+
+样本 870:
+问题: Where would you acquire a wind instrument for you own use?
+预测: music store
+正确答案: music store
+是否正确: True
+
+样本 871:
+问题: Where would a person light alcohol on fire to observe the reaction?
+预测: chemistry lab
+正确答案: chemistry lab
+是否正确: True
+
+样本 872:
+问题: If a storey contained a panoramic view, what kind of structure would it be in?
+预测: tall building
+正确答案: tall building
+是否正确: True
+
+样本 873:
+问题: Where does lettuce arrive by large trucks?
+预测: farmer's market
+正确答案: supermarket
+是否正确: False
+
+样本 874:
+问题: Why do people who are dying receive social security payments?
+预测: unable to work
+正确答案: unable to work
+是否正确: True
+
+样本 875:
+问题: What should I do with a jumping rope?
+预测: hopping
+正确答案: hopping
+是否正确: True
+
+样本 876:
+问题: What do geese do every fall in fields?
+预测: fly
+正确答案: group together
+是否正确: False
+
+样本 877:
+问题: I took my seat, the curtains drew back and I enjoyed the what?
+预测: show
+正确答案: show
+是否正确: True
+
+样本 878:
+问题: What should everyone do who doesn't want to fight anymore?
+预测: hope for peace
+正确答案: hope for peace
+是否正确: True
+
+样本 879:
+问题: Where is the ideal location for a post office?
+预测: center of town
+正确答案: center of town
+是否正确: True
+
+样本 880:
+问题: Where outside of a city would a squirrel live?
+预测: forest
+正确答案: forest
+是否正确: True
+
+样本 881:
+问题: You should watch out for snakes if floating down what African body of water?
+预测: amazon river
+正确答案: amazon river
+是否正确: True
+
+样本 882:
+问题: At the end of the day as he began to eat he paused and thanked her, it wasn't often she would what?
+预测: cook dinner
+正确答案: cook dinner
+是否正确: True
+
+样本 883:
+问题: To what do trees roots cling?
+预测: countryside
+正确答案: surface of earth
+是否正确: False
+
+样本 884:
+问题: What probably has a lot of dust in the back?
+预测: closet
+正确答案: closet
+是否正确: True
+
+样本 885:
+问题: At the new comic store he found himself making friends, it was nice to meet people with what?
+预测: common interests
+正确答案: common interests
+是否正确: True
+
+样本 886:
+问题: The student explained he had a clue what neuroepithelium was and got really nervous, he then lost his balance because a what issue?
+预测: inner ear
+正确答案: inner ear
+是否正确: True
+
+样本 887:
+问题: What could people do that involves talking?
+预测: carnival
+正确答案: confession
+是否正确: False
+
+样本 888:
+问题: If you're a child answering questions and an adult is asking them that adult is doing what?
+预测: teaching
+正确答案: teaching
+是否正确: True
+
+样本 889:
+问题: He has lactose intolerant, but was eating dinner made of cheese, what followed for him?
+预测: indigestion
+正确答案: indigestion
+是否正确: True
+
+样本 890:
+问题: The teacher played on the upright piano, she was explaining the song to all the students in the what?
+预测: music room
+正确答案: music room
+是否正确: True
+
+样本 891:
+问题: When you get an F, you fail. If you get A's you are?
+预测: succeeding
+正确答案: passing
+是否正确: False
+
+样本 892:
+问题: What is the main purpose of having a bath?
+预测: hygiene
+正确答案: cleanness
+是否正确: False
+
+样本 893:
+问题: The ball was hit over a boundary and struck an audience member.  What kind of game were they playing?
+预测: sporting event
+正确答案: sporting event
+是否正确: True
+
+样本 894:
+问题: What is someone operating a vehicle likely to be accused of after becoming inebriated?
+预测: drunk driving
+正确答案: drunk driving
+是否正确: True
+
+样本 895:
+问题: Where would you get jewelry if you do not have any?
+预测: safe deposit box
+正确答案: department store
+是否正确: False
+
+样本 896:
+问题: What is a philosopher waiting for to eventually gain through his studies?
+预测: wisdom
+正确答案: wisdom
+是否正确: True
+
+样本 897:
+问题: What do young boys do on the ice in the winter?
+预测: play hockey
+正确答案: play hockey
+是否正确: True
+
+样本 898:
+问题: She loved spending money at the thrift store on knickknacks, this resulted in a lot of what on every shelf in her house?
+预测: clutter
+正确答案: clutter
+是否正确: True
+
+样本 899:
+问题: I listened to lecture intensely, what is my goal?
+预测: concentrate
+正确答案: concentrate
+是否正确: True
+
+样本 900:
+问题: If a person is using a computer to talk to their granddaughter, what might the computer cause for them?
+预测: stress
+正确答案: happiness
+是否正确: False
+
+样本 901:
+问题: Joe was there to meet a large number of people.  As he filed though the entrance hall, he saw many strangers who came from far away.  What sort of building is he probably in?
+预测: convention center
+正确答案: convention center
+是否正确: True
+
+样本 902:
+问题: John wanted scatter his wife's remains in a lake in the wilderness.  He had to delay before of where he lived.  Where did he live?
+预测: new york
+正确答案: new york
+是否正确: True
+
+样本 903:
+问题: Many towns and cities have trash cans where on sidewalks?
+预测: corner
+正确答案: corner
+是否正确: True
+
+样本 904:
+问题: The family wanted to adopt for enviro-ethical reasons, what did they abhor?
+预测: abandon
+正确答案: biological child
+是否正确: False
+
+样本 905:
+问题: What happens when airplane engines cut off and are unable to be restarted in flight?
+预测: crash
+正确答案: crash
+是否正确: True
+
+样本 906:
+问题: Where would you be concerned about finding a cavity?
+预测: dentist
+正确答案: teeth
+是否正确: False
+
+样本 907:
+问题: Human beings learn about current events from what print item?
+预测: read newspapers
+正确答案: read newspapers
+是否正确: True
+
+样本 908:
+问题: In what kind of environment does an anemone live?
+预测: sea water
+正确答案: sea water
+是否正确: True
+
+样本 909:
+问题: He wanted lodging in the actual what, so that he was already where he needed to be?
+预测: going on vacation
+正确答案: resort area
+是否正确: False
+
+样本 910:
+问题: If I am suffering from boredom, and I want to see something beautiful, what should I do?
+预测: grocery shop
+正确答案: see art
+是否正确: False
+
+样本 911:
+问题: The goal was to hit the target, but a projectile ball can't hit anything if it isn't in what?
+预测: motion
+正确答案: motion
+是否正确: True
+
+样本 912:
+问题: Where is a good place to set a cup of coffee while relaxing?
+预测: coffee shop
+正确答案: table
+是否正确: False
+
+样本 913:
+问题: If a fried egg was runny and there was no toast to sop it up, after the meal there'd be a messy what?
+预测: plate
+正确答案: plate
+是否正确: True
+
+样本 914:
+问题: If I want to behave with proper aplomb, what manners should I avoid?
+预测: inappropriate
+正确答案: inappropriate
+是否正确: True
+
+样本 915:
+问题: Before lifting weights he liked to warm up on the squash court, he really enjoyed the facilities of the what?
+预测: fitness center
+正确答案: fitness center
+是否正确: True
+
+样本 916:
+问题: What will happen to animals after eating food?
+预测: digestion
+正确答案: feel pleasure
+是否正确: False
+
+样本 917:
+问题: If I wanted to grow plants, where could I put a lot of dirt?
+预测: garden
+正确答案: garden
+是否正确: True
+
+样本 918:
+问题: What does a person often feel about someone judging them guilty?
+预测: resentment
+正确答案: resentment
+是否正确: True
+
+样本 919:
+问题: A town between two mountains is located in a what?
+预测: valley
+正确答案: valley
+是否正确: True
+
+样本 920:
+问题: James need to use a toilet but there were no public ones in sight.  Eventually he broke down and did something very expensive so that he could get a toilet.  Where might he have gone?
+预测: apartment
+正确答案: motel room
+是否正确: False
+
+样本 921:
+问题: Why did the heavy metal band need electricity at the stadium?
+预测: concert
+正确答案: concert
+是否正确: True
+
+样本 922:
+问题: What is a person looking for when completing puzzles or riddles?
+预测: intellectual challenge
+正确答案: intellectual challenge
+是否正确: True
+
+样本 923:
+问题: If someone was making breakfast, they'd probably put two slices of bread in the what?
+预测: toaster
+正确答案: toaster
+是否正确: True
+
+样本 924:
+问题: His house was a mess, he began doing housework to get what?
+预测: feeling satisfied
+正确答案: house clean
+是否正确: False
+
+样本 925:
+问题: Where would a corpse be covered by a blanket?
+预测: bedroom
+正确答案: hospital
+是否正确: False
+
+样本 926:
+问题: The man  tried to break the glass in order to make his escape in time, but he could not.  The person in the cat, trying to kill him, did what?
+预测: accelerate
+正确答案: accelerate
+是否正确: True
+
+样本 927:
+问题: The trucker plopped on the bench with a sense of relief, where did he arrive?
+预测: rest area
+正确答案: rest area
+是否正确: True
+
+样本 928:
+问题: What is part of a republic like the USA?
+预测: democracy
+正确答案: state
+是否正确: False
+
+样本 929:
+问题: Where do you keep extra clothing on a hike?
+预测: backpack
+正确答案: backpack
+是否正确: True
+
+样本 930:
+问题: What could an apple tree do?
+预测: spontaneously combust
+正确答案: bloom
+是否正确: False
+
+样本 931:
+问题: What very cold area in the east can a crab be found?
+预测: atlantic ocean
+正确答案: atlantic ocean
+是否正确: True
+
+样本 932:
+问题: The chef wanted to perfect his craft, what did he do?
+预测: study french cooking
+正确答案: study french cooking
+是否正确: True
+
+样本 933:
+问题: She wanted a kitten and puppy so why did she only get the puppy?
+预测: kennel
+正确答案: one choice for pet
+是否正确: False
+
+样本 934:
+问题: There was no shade for Jenny.  She was forced to lie there exposed to what?
+预测: direct sunlight
+正确答案: full sunlight
+是否正确: False
+
+样本 935:
+问题: What could happen to you after you are cleaning house for a long time?
+预测: exhaustion
+正确答案: exhaustion
+是否正确: True
+
+样本 936:
+问题: What is someone doing when scheduling when to go to party?
+预测: having fun
+正确答案: plan
+是否正确: False
+
+样本 937:
+问题: What kind of path do comets tend to have?
+预测: solid nucleus
+正确答案: set orbits
+是否正确: False
+
+样本 938:
+问题: What do people feel after having sex that requires them to shower?
+预测: dirty
+正确答案: dirty
+是否正确: True
+
+样本 939:
+问题: The vet found malignant tumors on the animals, what is their likely fate?
+预测: euthanasia
+正确答案: die of cancer
+是否正确: False
+
+样本 940:
+问题: What is the thing that is agitated in your head when kissing?
+预测: happiness
+正确答案: happiness
+是否正确: True
+
+样本 941:
+问题: Billy was reading the newspaper as he commuted to work, but once he got to his destination he balled it up and put it somewhere. Where did it put it?
+预测: trash
+正确答案: trash
+是否正确: True
+
+样本 942:
+问题: Where do you keep a pail in your house?
+预测: utility room
+正确答案: utility room
+是否正确: True
+
+样本 943:
+问题: what is printed with ink and distributed daily?
+预测: newspaper
+正确答案: newspaper
+是否正确: True
+
+样本 944:
+问题: What are people likely to do when an unexpected decent outcome occurs?
+预测: talk to each other
+正确答案: thank god
+是否正确: False
+
+样本 945:
+问题: The terrace had Kanji written on it, indicating that it was made where?
+预测: japan
+正确答案: japan
+是否正确: True
+
+样本 946:
+问题: The company sent off many purchases, they used recycled cardboard as their what?
+预测: packaging materials
+正确答案: packaging materials
+是否正确: True
+
+样本 947:
+问题: Why might a person be known as a liar?
+预测: brain tumor
+正确答案: false information
+是否正确: False
+
+样本 948:
+问题: The child was politely waiting for dessert, he was eventually rewarded for his what?
+预测: patience
+正确答案: patience
+是否正确: True
+
+样本 949:
+问题: The man was giving assistance to a pan handler in the streets, how did he give assistance?
+预测: out of pocket
+正确答案: out of pocket
+是否正确: True
+
+样本 950:
+问题: What do you call the caretakers of a child?
+预测: parents
+正确答案: parents
+是否正确: True
+
+样本 951:
+问题: Where would you run in to a niece you only see every one and a while?
+预测: family reunion
+正确答案: family reunion
+是否正确: True
+
+样本 952:
+问题: Working on the elaborate task was taxing, it require extreme what?
+预测: concentration
+正确答案: concentration
+是否正确: True
+
+样本 953:
+问题: What may you have after awaking after a night of heavy drinking?
+预测: headache
+正确答案: headache
+是否正确: True
+
+样本 954:
+问题: What uses a ribbon to put words on paper?
+预测: typewriter
+正确答案: typewriter
+是否正确: True
+
+样本 955:
+问题: Where are sheep likely to live?
+预测: fairgrounds
+正确答案: farm
+是否正确: False
+
+样本 956:
+问题: If I was watching TV on the couch and the air was stuffy, I might turn the fan on to make the what more comfortable?
+预测: living room
+正确答案: living room
+是否正确: True
+
+样本 957:
+问题: While walking the student needed to store his writing insturment away, where did he put it?
+预测: desk drawer
+正确答案: pocket
+是否正确: False
+
+样本 958:
+问题: Who watches a play in an auditorium?
+预测: crowd
+正确答案: crowd
+是否正确: True
+
+样本 959:
+问题: What is a possible outcome for committing murder?
+预测: imprisonment
+正确答案: imprisonment
+是否正确: True
+
+样本 960:
+问题: where is a good place to obtain new soap?
+预测: supermarket
+正确答案: supermarket
+是否正确: True
+
+样本 961:
+问题: What do people do for food?
+预测: talk to each other
+正确答案: kill animals
+是否正确: False
+
+样本 962:
+问题: There was many a bottle to choose from behind the cashier where?
+预测: grocery store
+正确答案: liquor store
+是否正确: False
+
+样本 963:
+问题: They had to know where to go, they got on the national highway after consulting the what?
+预测: atlas
+正确答案: atlas
+是否正确: True
+
+样本 964:
+问题: What do professors primarily do?
+预测: teach courses
+正确答案: teach courses
+是否正确: True
+
+样本 965:
+问题: Where do you throw a ball at pins?
+预测: bowling alley
+正确答案: bowling alley
+是否正确: True
+
+样本 966:
+问题: What might you need to do cleaning?
+预测: allergies
+正确答案: using water
+是否正确: False
+
+样本 967:
+问题: If i were to spit a lot without noticing i may have extra what?
+预测: phlegm
+正确答案: saliva nd mouth
+是否正确: False
+
+样本 968:
+问题: If student got a list of supplies from class like paper and pencils, their parent would have to go where?
+预测: parking garage
+正确答案: store
+是否正确: False
+
+样本 969:
+问题: Why do young people swallow semen ?
+预测: curiosity
+正确答案: you're curious
+是否正确: False
+
+样本 970:
+问题: Sally was standing in queue.  The line was very, very slow.  What was she feeling?
+预测: frustration
+正确答案: frustration
+是否正确: True
+
+样本 971:
+问题: What is the animal trying to accomplish?
+预测: eating
+正确答案: live long
+是否正确: False
+
+样本 972:
+问题: James and Holly went dancing together. As they danced, he  pressed himself against her what?
+预测: euphoria
+正确答案: moving body
+是否正确: False
+
+样本 973:
+问题: If a house has a subscription, what likely shows up in the driveway every morning?
+预测: newspaper
+正确答案: newspaper
+是否正确: True
+
+样本 974:
+问题: What does a person do when they feel dirty?
+预测: wash themselves
+正确答案: wash themselves
+是否正确: True
+
+样本 975:
+问题: After the weight cut he was worried about his energy levels, but this was part of participating in a what?
+预测: wrestle
+正确答案: wrestle
+是否正确: True
+
+样本 976:
+问题: what does a person do to stay healthy?
+预测: eat every day
+正确答案: eat every day
+是否正确: True
+
+样本 977:
+问题: Who is the guard here for?
+预测: prisoner
+正确答案: prisoner
+是否正确: True
+
+样本 978:
+问题: If a person stutters when he experiences anxiety or excitement, he'll have difficult doing what?
+预测: study
+正确答案: express information
+是否正确: False
+
+样本 979:
+问题: Where can you keep letter opener when it likely to be needed soon?
+预测: refrigerator
+正确答案: dek
+是否正确: False
+
+样本 980:
+问题: Danny found that the carpet did not ,match the drapes, which was disappointing, because this place was expensive.  But it was the only place in town that wasn't booked solid for the week and he needed it while he was in town, so he couldn't complain.   Where might this place be?
+预测: restaurant
+正确答案: at hotel
+是否正确: False
+
+样本 981:
+问题: What do people need to do to change their lives?
+预测: become disillusioned
+正确答案: face problems
+是否正确: False
+
+样本 982:
+问题: Humans need shelter to survive.  They usually find shelter where?
+预测: homes
+正确答案: homes
+是否正确: True
+
+样本 983:
+问题: Someone who had a very bad flight might be given a trip in this to make up for it?
+预测: first class
+正确答案: first class
+是否正确: True
+
+样本 984:
+问题: Nature can be good and bad for the person who walks, what are some things?
+预测: murdered by a landshark
+正确答案: see beautiful views
+是否正确: False
+
+样本 985:
+问题: Jim decided to lose weight.  He thought that exercise is the best way to lose weight because you can't get rid of what?
+预测: fastfood
+正确答案: need for food
+是否正确: False
+
+样本 986:
+问题: Nature creates more beautiful structures than those that are what?
+预测: artificial
+正确答案: man made
+是否正确: False
+
+样本 987:
+问题: The water in clouds turn in to what when it gets cold?
+预测: snowflake
+正确答案: snowflake
+是否正确: True
+
+样本 988:
+问题: What southern U.S. state is know for having many swamps?
+预测: louisiana
+正确答案: louisiana
+是否正确: True
+
+样本 989:
+问题: When going to sleep what happens to your body?
+预测: dreaming
+正确答案: relaxation
+是否正确: False
+
+样本 990:
+问题: Where is a monkey likely to enjoy being?
+预测: banana tree
+正确答案: banana tree
+是否正确: True
+
+样本 991:
+问题: What is a form of anaerobic exercising?
+预测: shortness of breath
+正确答案: run
+是否正确: False
+
+样本 992:
+问题: The earth is one planet in what?
+预测: solar system
+正确答案: solar system
+是否正确: True
+
+样本 993:
+问题: Where would you put a container can after you buy it?
+预测: garage
+正确答案: garage
+是否正确: True
+
+样本 994:
+问题: Where did you meet your best friend since Kindergarten?
+预测: school
+正确答案: school
+是否正确: True
+
+样本 995:
+问题: James was below the balloon.  He watched it rise.  What direction did he look in?
+预测: upwards
+正确答案: upwards
+是否正确: True
+
+样本 996:
+问题: John and Tim like playing. It makes them what?
+预测: feeling happy
+正确答案: feeling happy
+是否正确: True
+
+样本 997:
+问题: What could happen if someone is seeing new presents at a birthday party?
+预测: excitement
+正确答案: excitement
+是否正确: True
+
+样本 998:
+问题: Joe's cat smelled something delicious and jumped into this, causing him to panic and fear for its life. Where might it have jumped?
+预测: microwave
+正确答案: microwave
+是否正确: True
+
+样本 999:
+问题: Why would a person put flowers in a room with dirty gym socks?
+预测: smell good
+正确答案: smell good
+是否正确: True
+
+样本 1000:
+问题: The table wasn't level.  some parts were higher and some were lower with no rhyme or reason.   It was very what?
+预测: uneven
+正确答案: uneven
+是否正确: True
+
+样本 1001:
+问题: The person signed up for home insurance, what is he seeking?
+预测: financial security
+正确答案: financial security
+是否正确: True
+
+样本 1002:
+问题: James know that committing murder was wrong, but he thought that he could get away with it.  He was really troubled  and fearful because of what?
+预测: prosecution
+正确答案: prosecution
+是否正确: True
+
+样本 1003:
+问题: How can someone die from eating hamburger?
+预测: mad cow disease
+正确答案: mad cow disease
+是否正确: True
+
+样本 1004:
+问题: Where would using a boat not require navigation skills?
+预测: harbor
+正确答案: river
+是否正确: False
+
+样本 1005:
+问题: What does a self assured person often do?
+预测: focused
+正确答案: feel important
+是否正确: False
+
+样本 1006:
+问题: He was very outgoing, for him making friends was no personal what?
+预测: conflict
+正确答案: conflict
+是否正确: True
+
+样本 1007:
+问题: What do you feel when giving assistance to the needy?
+预测: satisfaction
+正确答案: satisfaction
+是否正确: True
+
+样本 1008:
+问题: Paul wants carrots and doesn't need to drive anywhere. He gets them from where?
+预测: farmer's market
+正确答案: refrigerator
+是否正确: False
+
+样本 1009:
+问题: He was a sloppy eater, so where did he leave a mess?
+预测: apartment
+正确答案: table
+是否正确: False
+
+样本 1010:
+问题: What does every person want?
+预测: money
+正确答案: life partner
+是否正确: False
+
+样本 1011:
+问题: If a small flying animal picks up a string, where are they taking it?
+预测: bird's nest
+正确答案: bird's nest
+是否正确: True
+
+样本 1012:
+问题: He had no issue committing perjury, he had a what that he would get away with it?
+预测: confidence
+正确答案: confidence
+是否正确: True
+
+样本 1013:
+问题: What could go to a tennis court?
+预测: athletic club
+正确答案: athletic club
+是否正确: True
+
+样本 1014:
+问题: What could you use to fill a cup and then drink from it?
+预测: water fountain
+正确答案: water fountain
+是否正确: True
+
+样本 1015:
+问题: The two played video games all night in the living room, he enjoyed visiting where?
+预测: friend's house
+正确答案: friend's house
+是否正确: True
+
+样本 1016:
+问题: The weasel ran up away from danger, somebody joked only our first president could get him down from the what?
+预测: cherry tree
+正确答案: cherry tree
+是否正确: True
+
+样本 1017:
+问题: If you were looking for a blowfish, you wouldn't look on dry land, you'd look in a what?
+预测: body of water
+正确答案: body of water
+是否正确: True
+
+样本 1018:
+问题: George checked the rotor of the Apache, which wasn't powered by internal combustion, but by what?
+预测: electric motor
+正确答案: jet engine
+是否正确: False
+
+样本 1019:
+问题: The poker dealer spread the flop of cards across the what?
+预测: table
+正确答案: table
+是否正确: True
+
+样本 1020:
+问题: Where is a salt shaker most often kept?
+预测: kitchen cupboard
+正确答案: table setting
+是否正确: False
+
+样本 1021:
+问题: Where would you put a dollar if you want to go to a store and buy something with it?
+预测: piggy bank
+正确答案: pocket
+是否正确: False
+
+样本 1022:
+问题: What room is likely to have a sideboard on the counter?
+预测: dining room
+正确答案: kitchen
+是否正确: False
+
+样本 1023:
+问题: What is unlikely to get bugs on its windshield due to bugs' inability to reach it when it is moving?
+预测: airplane
+正确答案: airplane
+是否正确: True
+
+样本 1024:
+问题: What mall store sells jeans for a decent price?
+预测: thrift store
+正确答案: gap
+是否正确: False
+
+样本 1025:
+问题: Where can a bath towel be borrowed?
+预测: swimming pool
+正确答案: at hotel
+是否正确: False
+
+样本 1026:
+问题: Why do people stop caring about their problems?
+预测: become disillusioned
+正确答案: become disillusioned
+是否正确: True
+
+样本 1027:
+问题: John rode on the plain until it reached the ocean and couldn't go any farther. What might he have bee on?
+预测: mountain
+正确答案: cliff
+是否正确: False
+
+样本 1028:
+问题: They were never going to be big actors, but they all had passion for the local what?
+预测: theater
+正确答案: theater
+是否正确: True
+
+样本 1029:
+问题: Where would you use a folding chair but not store one?
+预测: garage
+正确答案: beach
+是否正确: False
+
+样本 1030:
+问题: If you spend a long time shopping in uncomfortable shoes, you might develop what?
+预测: calluses
+正确答案: calluses
+是否正确: True
+
+样本 1031:
+问题: What does impeachment mean for the president?
+预测: corporation
+正确答案: trouble
+是否正确: False
+
+样本 1032:
+问题: Noble citizen of the Roman empire believed those born with lower status were what to them?
+预测: inferior
+正确答案: inferior
+是否正确: True
+
+样本 1033:
+问题: Spraining an ankle while playing baseball will cause what?
+预测: injury
+正确答案: pain
+是否正确: False
+
+样本 1034:
+问题: John was traveling to a new city and took time to check out a business.  He noticed that its carpet was stained with sauces and ketchup. What type of business might that be?
+预测: restaurant
+正确答案: restaurant
+是否正确: True
+
+样本 1035:
+问题: If you have a condo in a Wisconsin city known for beer, where are you?
+预测: milwaukee
+正确答案: milwaukee
+是否正确: True
+
+样本 1036:
+问题: Where is hard to read note likely to be?
+预测: desk
+正确答案: medical chart
+是否正确: False
+
+样本 1037:
+问题: How does someone go about buying beer?
+预测: spend money
+正确答案: spend money
+是否正确: True
+
+样本 1038:
+问题: If there is gum on your shoe where did it likely come from?
+预测: water fountain
+正确答案: sidewalk
+是否正确: False
+
+样本 1039:
+问题: If a person isn't able to pay their bills what must they do?
+预测: make more money
+正确答案: make more money
+是否正确: True
+
+样本 1040:
+问题: What is main benefit to exercising?
+预测: weight loss
+正确答案: get in shape
+是否正确: False
+
+样本 1041:
+问题: Steve thought that it was possible, but he agreed that it was what?
+预测: unlikely
+正确答案: unlikely
+是否正确: True
+
+样本 1042:
+问题: What region of a west coast U.S. city would you find a Japanese restaurant?
+预测: downtown
+正确答案: downtown
+是否正确: True
+
+样本 1043:
+问题: What is a tactic used to interfere with learning about science?
+预测: intimidation
+正确答案: intimidation
+是否正确: True
+
+样本 1044:
+问题: What do people usually feel when falling in love?
+预测: happiness
+正确答案: happiness
+是否正确: True
+
+样本 1045:
+问题: The tiger was stuck in what animal prison where he got lazy and fat?
+预测: zoo
+正确答案: zoo
+是否正确: True
+
+样本 1046:
+问题: What do parents tell a child to do on the weekend?
+预测: go out to play
+正确答案: go out to play
+是否正确: True
+
+样本 1047:
+问题: Why are dogs often known as man's best friend?
+预测: aggressive
+正确答案: very loyal
+是否正确: False
+
+样本 1048:
+问题: Where can you buy a two wheel transportation machine?
+预测: bicycle shop
+正确答案: bicycle shop
+是否正确: True
+
+样本 1049:
+问题: Where might an alien use a vacuum?
+预测: kitchen
+正确答案: space
+是否正确: False
+
+样本 1050:
+问题: Where do you buy condoms?
+预测: supermarket
+正确答案: supermarket
+是否正确: True
+
+样本 1051:
+问题: What animal is known for being a follower?
+预测: goat
+正确答案: goat
+是否正确: True
+
+样本 1052:
+问题: The soldier was told to get to the rendezvous point, for there he was suppose to what?
+预测: wait for orders
+正确答案: wait for orders
+是否正确: True
+
+样本 1053:
+问题: If you want to kill someone you can do what to them with a gun?
+预测: shoot
+正确答案: shoot
+是否正确: True
+
+样本 1054:
+问题: The hostess greeted the employees to the program, she then led them to their what?
+预测: occupations
+正确答案: work room
+是否正确: False
+
+样本 1055:
+问题: Where is a likely place to store unused soap?
+预测: cabinet
+正确答案: cabinet
+是否正确: True
+
+样本 1056:
+问题: Loss of someone you love can cause what kind of feeling in your heart?
+预测: painful
+正确答案: painful
+是否正确: True
+
+样本 1057:
+问题: Where in your home would you keep a ballpoint pen when not in use?
+预测: desk drawer
+正确答案: desk drawer
+是否正确: True
+
+样本 1058:
+问题: James was someone who was caught in his own delusions.  To him, the truth didn't do what what?
+预测: matter to
+正确答案: matter to
+是否正确: True
+
+样本 1059:
+问题: He wanted to live somewhere were every yard was uniform in size and landscaping, where should he look for a house?
+预测: subdivision
+正确答案: subdivision
+是否正确: True
+
+样本 1060:
+问题: The flasks was used to distill elements, where was is being used?
+预测: laboratory
+正确答案: chemistry lab
+是否正确: False
+
+样本 1061:
+问题: What was the man encouraged to do after he expressed his anger violently?
+预测: cool off
+正确答案: cool off
+是否正确: True
+
+样本 1062:
+问题: Where can a student learn to play a triangle?
+预测: music class
+正确答案: music class
+是否正确: True
+
+样本 1063:
+问题: What do you need to do to use television if it is already turned on?
+预测: plug in
+正确答案: open eyes
+是否正确: False
+
+样本 1064:
+问题: The guys had a regular poker game, rather than going to the movies this what their what?
+预测: competition
+正确答案: social event
+是否正确: False
+
+样本 1065:
+问题: When you stroke a dogs fur what have you done?
+预测: petted
+正确答案: petted
+是否正确: True
+
+样本 1066:
+问题: Dan fell off a bar stool.  He did this because he was what than ever before?
+预测: drunker
+正确答案: drunker
+是否正确: True
+
+样本 1067:
+问题: The wood was still rough to the touch, what did the woodworker have to do?
+预测: sanded
+正确答案: sanded
+是否正确: True
+
+样本 1068:
+问题: The chief saw his entire tribe wiped out, he was a leader with a single what?
+预测: follower
+正确答案: follower
+是否正确: True
+
+样本 1069:
+问题: The flower grew tall to compete for sunlight, what did its neighbor do?
+预测: blossom
+正确答案: cast shadow
+是否正确: False
+
+样本 1070:
+问题: If while driving to work another car makes a careless maneuver, what emotion might you feel?
+预测: road rage
+正确答案: road rage
+是否正确: True
+
+样本 1071:
+问题: What kind of food makes someone sick?
+预测: unhealthy
+正确答案: unhealthy
+是否正确: True
+
+样本 1072:
+问题: Where would you find the sharpest parts of a triangle?
+预测: three vertices
+正确答案: three vertices
+是否正确: True
+
+样本 1073:
+问题: How might a automobile get off a freeway?
+预测: exit ramp
+正确答案: exit ramp
+是否正确: True
+
+样本 1074:
+问题: What does going to bed with your spouse for sex lead to?
+预测: a good nights sleep
+正确答案: get pregnant
+是否正确: False
+
+样本 1075:
+问题: What would it be if they get a surprising show over and over?
+预测: annoyance
+正确答案: annoyance
+是否正确: True
+
+样本 1076:
+问题: Sally thought that competing wasn't worth the risk. If she pushed more what might happen?
+预测: trying harder
+正确答案: death
+是否正确: False
+
+样本 1077:
+问题: John is sitting in a toilet stall in a bathroom, outside he can hear cars going around in circles.  What is the function of the place he is most likely at?
+预测: public place
+正确答案: race track
+是否正确: False
+
+样本 1078:
+问题: What event might one buy tickets for seats?
+预测: auditorium
+正确答案: show
+是否正确: False
+
+样本 1079:
+问题: The merchant wanted to open in a high-traffic space, where did he rent space?
+预测: mall
+正确答案: mall
+是否正确: True
+
+样本 1080:
+问题: The newlyweds began copulating their marriage, they wanted many what?
+预测: babies
+正确答案: babies
+是否正确: True
+
+样本 1081:
+问题: How does a planet usually move around the sun?
+预测: orbit
+正确答案: orbit
+是否正确: True
+
+样本 1082:
+问题: When a group of people are talking at work they might be doing what?
+预测: sharing of ideas
+正确答案: sharing of ideas
+是否正确: True
+
+样本 1083:
+问题: What emotion leads to punching?
+预测: anger
+正确答案: anger
+是否正确: True
+
+样本 1084:
+问题: They kept doing things the same, she suggested they also try doing things what?
+预测: differently
+正确答案: differently
+是否正确: True
+
+样本 1085:
+问题: Where could you find a shark before it was caught?
+预测: desert
+正确答案: tomales bay
+是否正确: False
+
+样本 1086:
+问题: Where is one likely to find poker chips?
+预测: supermarket
+正确答案: bar
+是否正确: False
+
+样本 1087:
+问题: Dance can be elegant and specific, or you can just have fun and what?
+预测: celebrate
+正确答案: move around
+是否正确: False
+
+样本 1088:
+问题: Where can one obtain a bass fiddle?
+预测: nursery rhyme
+正确答案: music store
+是否正确: False
+
+样本 1089:
+问题: Why does having a disability sometimes making academic tasks hard for a person?
+预测: acknowledgment
+正确答案: mentally challenged
+是否正确: False
+
+样本 1090:
+问题: What is the purpose of playing games for children?
+预测: fatigue
+正确答案: learning
+是否正确: False
+
+样本 1091:
+问题: If for some reason you were to start killing people, what would you be likely to receive?
+预测: prison sentence
+正确答案: prison sentence
+是否正确: True
+
+样本 1092:
+问题: If someone laughs after surprising them they have a good sense of what?
+预测: humor
+正确答案: humor
+是否正确: True
+
+样本 1093:
+问题: People played a variety of games in the soccer field.  It was the closest thing they had to what?
+预测: outside
+正确答案: park
+是否正确: False
+
+样本 1094:
+问题: What is likely to have a better school cafeteria?
+预测: high school
+正确答案: polytechnic
+是否正确: False
+
+样本 1095:
+问题: When someone has little knowledge and is judging someone they are considered what?
+预测: ignorance
+正确答案: ignorance
+是否正确: True
+
+样本 1096:
+问题: She wanted to get in shape, but she couldn't stay focused on the hour long what?
+预测: excercise
+正确答案: work out
+是否正确: False
+
+样本 1097:
+问题: When you do something and have fun, its something you?
+预测: spontaneous
+正确答案: do enjoy
+是否正确: False
+
+样本 1098:
+问题: What is a salesman responsible to do at work?
+预测: sell products
+正确答案: sell products
+是否正确: True
+
+样本 1099:
+问题: How does going jogging generally affect one's self esteem?
+预测: arthritis
+正确答案: feel better
+是否正确: False
+
+样本 1100:
+问题: Where would you find people standing in a line outside?
+预测: neighbor's house
+正确答案: bus depot
+是否正确: False
+
+样本 1101:
+问题: If you are committing perjury you have done what while under oath?
+预测: lie
+正确答案: lie
+是否正确: True
+
+样本 1102:
+问题: Where can you find the meaning of "ficus"?
+预测: dictionary
+正确答案: dictionary
+是否正确: True
+
+样本 1103:
+问题: When are people buying products more?
+预测: economic boom
+正确答案: economic boom
+是否正确: True
+
+样本 1104:
+问题: The buildings were intended to not have residential kitchens in them, what were they designed for?
+预测: eat cake
+正确答案: university
+是否正确: False
+
+样本 1105:
+问题: Animals come in all types, some fly thanks to their lightweight hollow what?
+预测: bones
+正确答案: bones
+是否正确: True
+
+样本 1106:
+问题: The child felt like it was all pretend, he didn't understand what?
+预测: daydreams
+正确答案: religion
+是否正确: False
+
+样本 1107:
+问题: Where is a lake likely to be glacial?
+预测: mountains
+正确答案: mountains
+是否正确: True
+
+样本 1108:
+问题: They needed grape juice for their party, they went to buy it and other snacks at the what?
+预测: food store
+正确答案: food store
+是否正确: True
+
+样本 1109:
+问题: Why do some people get passports and go to different locations?
+预测: desire to travel
+正确答案: desire to travel
+是否正确: True
+
+样本 1110:
+问题: Where do apples form on an apple tree?
+预测: bloom
+正确答案: bloom
+是否正确: True
+
+样本 1111:
+问题: Where areas are there likely to be many nightclubs?
+预测: downtown area
+正确答案: major city
+是否正确: False
+
+样本 1112:
+问题: What can machines do that humans cannot?
+预测: answering questions
+正确答案: fly
+是否正确: False
+
+样本 1113:
+问题: What does someone stop doing when being dead?
+预测: breathing
+正确答案: breathing
+是否正确: True
+
+样本 1114:
+问题: The place where my linen closet is really needs repainting a light color as it only has one overhead light.
+预测: bedroom
+正确答案: hallway
+是否正确: False
+
+样本 1115:
+问题: Punk rock music is an important part of what action sport?
+预测: skate
+正确答案: skate
+是否正确: True
+
+样本 1116:
+问题: Where might a mouse be found to make it country?
+预测: computer lab
+正确答案: old barn
+是否正确: False
+
+样本 1117:
+问题: Where is a bird likely to make it's home?
+预测: forest
+正确答案: forest
+是否正确: True
+
+样本 1118:
+问题: When a person suffers from hunger early in the day what do they do?
+预测: eat breakfast
+正确答案: eat breakfast
+是否正确: True
+
+样本 1119:
+问题: How would you express information if you do not have a pen or pencil?
+预测: write down
+正确答案: talk
+是否正确: False
+
+样本 1120:
+问题: What does everyone feel of monsters?
+预测: afraid of
+正确答案: afraid of
+是否正确: True
+
+样本 1121:
+问题: Why does someone want to examine thing closely?
+预测: interesting
+正确答案: learn about
+是否正确: False
+
+样本 1122:
+问题: What does 	drinking alcohol lead to?
+预测: intoxication
+正确答案: intoxication
+是否正确: True
+
+样本 1123:
+问题: Where would your hear a bass clarinet along side other wood wind instruments?
+预测: orchestra
+正确答案: orchestra
+是否正确: True
+
+样本 1124:
+问题: What is the opposite of a little of something?
+预测: much
+正确答案: lot of
+是否正确: False
+
+样本 1125:
+问题: The princess was pure, the evil wizard wished to do what to her?
+预测: corrupt
+正确答案: corrupt
+是否正确: True
+
+样本 1126:
+问题: The piece of paper was worth a lot of money, it was an old Apple Inc what?
+预测: stock certificate
+正确答案: stock certificate
+是否正确: True
+
+样本 1127:
+问题: During the winter hunt he could hear every motion in the woods, this was because of the what of everything?
+预测: silence
+正确答案: stillness
+是否正确: False
+
+样本 1128:
+问题: If a car-less person want to listen to talk radio in private, where might they listen to it?
+预测: bedroom
+正确答案: bedroom
+是否正确: True
+
+样本 1129:
+问题: Billy was an astronaut.  When he looked at the world from space, how did it look?
+预测: orange
+正确答案: round
+是否正确: False
+
+样本 1130:
+问题: Where is a good place to have a fireplace in a house?
+预测: living room
+正确答案: living room
+是否正确: True
+
+样本 1131:
+问题: If you own a cat where is the last place you'd want to find it?
+预测: dog's mouth
+正确答案: dog's mouth
+是否正确: True
+
+样本 1132:
+问题: Where would you find a kosher deli along side a number of different places to eat?
+预测: food court
+正确答案: food court
+是否正确: True
+
+样本 1133:
+问题: What do you do when you're going to market?
+预测: buying vegetables
+正确答案: buy food
+是否正确: False
+
+样本 1134:
+问题: She feared that she had cancer, but upon discovering truth that she hadn't, what was her attitude toward life?
+预测: relief
+正确答案: happiness
+是否正确: False
+
+样本 1135:
+问题: What is the feeling of one having fun?
+预测: laughter
+正确答案: pleasure
+是否正确: False
+
+样本 1136:
+问题: If I keep getting crumbs under my table, what should I put under it?
+预测: neighbor's house
+正确答案: rug
+是否正确: False
+
+样本 1137:
+问题: Christians believe you will go to heaven if you're what?
+预测: dead
+正确答案: born again
+是否正确: False
+
+样本 1138:
+问题: James loved to surf but he wasn't good at it. He would always do what?
+预测: wipe out
+正确答案: wipe out
+是否正确: True
+
+样本 1139:
+问题: Sarah gave her brother a guy to her home.  While she was gone, he used it to do what?
+预测: solution to problem
+正确答案: open doors
+是否正确: False
+
+样本 1140:
+问题: When did mammoth's live?
+预测: prehistoric times
+正确答案: ancient times
+是否正确: False
+
+样本 1141:
+问题: After killing people, the murderer went to church after feeling what?
+预测: remorse
+正确答案: remorse
+是否正确: True
+
+样本 1142:
+问题: What might result in an unsuccessful suicide attempt?
+预测: dying
+正确答案: interruption
+是否正确: False
+
+样本 1143:
+问题: What can happen if you are buying products that someone else does not want you to buy?
+预测: disagreements
+正确答案: disagreements
+是否正确: True
+
+样本 1144:
+问题: The child was getting many gifts for his birthday, his father reminded him to do what after opening each one?
+预测: show appreciation
+正确答案: say thank
+是否正确: False
+
+样本 1145:
+问题: Bob stands in the grass surrounded by trees and nature, where is Bob?
+预测: fairgrounds
+正确答案: state park
+是否正确: False
+
+样本 1146:
+问题: Bart entered his horse into the contest.  Where did he do this?
+预测: state fair
+正确答案: state fair
+是否正确: True
+
+样本 1147:
+问题: From where does a snowflake form?
+预测: snowstorm
+正确答案: cloud
+是否正确: False
+
+样本 1148:
+问题: All the power tools like the drill used for fixing cars made for a very loud workplace where?
+预测: repair shop
+正确答案: repair shop
+是否正确: True
+
+样本 1149:
+问题: Applying for a job can make someone feel what sort of emotion, even if they get it?
+预测: frustration
+正确答案: stress
+是否正确: False
+
+样本 1150:
+问题: A farmer sees a weasel in the woods, where is the farmer?
+预测: chicken coop
+正确答案: great outdoors
+是否正确: False
+
+样本 1151:
+问题: He picked up the perfect pebble, he planned to skip it across the entire small what?
+预测: lake
+正确答案: pond
+是否正确: False
+
+样本 1152:
+问题: Traveling from new place to new place is likely to be what?
+预测: exhilarating
+正确答案: exhilarating
+是否正确: True
+
+样本 1153:
+问题: Turkey only has a small northern part of their country located in part of the what?
+预测: balkan peninsula
+正确答案: balkan peninsula
+是否正确: True
+
+样本 1154:
+问题: Where might someone store a reusable shopping bag?
+预测: closet
+正确答案: closet
+是否正确: True
+
+样本 1155:
+问题: How could you have fun by yourself with no one around you?
+预测: enjoyable
+正确答案: watching television
+是否正确: False
+
+样本 1156:
+问题: The potato might be the official vegetable of what?
+预测: restaurants
+正确答案: maryland
+是否正确: False
+
+样本 1157:
+问题: Where is the sky most beautiful?
+预测: outdoors
+正确答案: outdoors
+是否正确: True
+
+样本 1158:
+问题: What type of fruit is easily broken in to sections?
+预测: coconut
+正确答案: citrus
+是否正确: False
+
+样本 1159:
+问题: Marathoners feel fatigued after running twenty six miles, but some that have pushed them self too hard might be prone to what?
+预测: exhaustion
+正确答案: passing out
+是否正确: False
+
+样本 1160:
+问题: Billy liked driving cars.  He was good at it.  But he was rattled ever since his father experienced what?
+预测: death
+正确答案: death
+是否正确: True
+
+样本 1161:
+问题: I am cold, what should I do to stay warm?
+预测: stay in bed
+正确答案: light fire
+是否正确: False
+
+样本 1162:
+问题: Copulating with the wrong partner may be ill advised, many diseases can be transferred that can cause different types of what?
+预测: skin irritation
+正确答案: skin irritation
+是否正确: True
+
+样本 1163:
+问题: What do audiences clap for?
+预测: hockey game
+正确答案: show
+是否正确: False
+
+样本 1164:
+问题: Where would you get a balalaika if you do not have one?
+预测: music store
+正确答案: music store
+是否正确: True
+
+样本 1165:
+问题: Hoping for a beautiful day, what did the clouds do that disappointed everyone?
+预测: overcast
+正确答案: overcast
+是否正确: True
+
+样本 1166:
+问题: What type of demands to the unions need to be making to go off strike?
+预测: return to work
+正确答案: reasonable
+是否正确: False
+
+样本 1167:
+问题: The landscaper was carefully arching stones together, he was creating an elaborate what over the creek?
+预测: bridge
+正确答案: bridge
+是否正确: True
+
+样本 1168:
+问题: John was not happy with his marriage. He and his wife drifted apart.     All and all, recent turns could be described as what?
+预测: disenchanted
+正确答案: unfortunate
+是否正确: False
+
+样本 1169:
+问题: The poor girls needed a light to see, what was the relationship between that light and finishing her homework?
+预测: obesity
+正确答案: crucial
+是否正确: False
+
+样本 1170:
+问题: Where would you find a ticket booth and see a concert?
+预测: auditorium
+正确答案: venue
+是否正确: False
+
+样本 1171:
+问题: Who is not famous for a superhighway with no speed limit?
+预测: germany
+正确答案: america
+是否正确: False
+
+样本 1172:
+问题: The low trickle of water revealed a stone, where was the stone found?
+预测: river bed
+正确答案: creek bed
+是否正确: False
+
+样本 1173:
+问题: Where is the closest place from where you could borrow salt?
+预测: neighbor's house
+正确答案: neighbor's house
+是否正确: True
+
+样本 1174:
+问题: No matter what date you put on it, we all know the universe to be what?
+预测: infinite
+正确答案: very old
+是否正确: False
+
+样本 1175:
+问题: A meteor travels through galaxies which are a part of what?
+预测: universe
+正确答案: universe
+是否正确: True
+
+样本 1176:
+问题: What is a person considered a bully known for?
+预测: made fun of
+正确答案: made fun of
+是否正确: True
+
+样本 1177:
+问题: She had an interest in the man, what did she want to do with him?
+预测: have conversation
+正确答案: have conversation
+是否正确: True
+
+样本 1178:
+问题: Where is a drug kept in a home bathroom?
+预测: medicine cabinet
+正确答案: medicine cabinet
+是否正确: True
+
+样本 1179:
+问题: When cooking sheep meat a lot of people might want to be well?
+预测: done
+正确答案: done
+是否正确: True
+
+样本 1180:
+问题: Where would you sit in a chair while working toward an advanced degree?
+预测: living room
+正确答案: university
+是否正确: False
+
+样本 1181:
+问题: Farm land makes use of what?
+预测: countryside
+正确答案: farming areas
+是否正确: False
+
+样本 1182:
+问题: A good interview after applying for a job may cause you to feel what?
+预测: hope
+正确答案: hope
+是否正确: True
+
+样本 1183:
+问题: Computers have allowed everybody to answer questions they have quickly, but still we seem to be getting duller despite access to this what?
+预测: advance knowledge
+正确答案: advance knowledge
+是否正确: True
+
+样本 1184:
+问题: There was a long cottage somewhere.  People thought it was haunted.  It was overgrown, there was nothing near it.  It's was far into the what?
+预测: countryside
+正确答案: countryside
+是否正确: True
+
+样本 1185:
+问题: Where is knight always portrayed as a hero?
+预测: chess board
+正确答案: fairy tale
+是否正确: False
+
+样本 1186:
+问题: James is carrying a duffel bag with him because he doesn't have a vehicle of his own and needs a bag to carry his things in while he uses what?
+预测: transit
+正确答案: transit
+是否正确: True
+
+样本 1187:
+问题: What would you need if you want to smoke?
+预测: cigarette
+正确答案: cigarette
+是否正确: True
+
+样本 1188:
+问题: James decided that competing was the right choice.   Not competing has a defined outcome, but if he competes then what could happen?
+预测: winners and losers
+正确答案: might win
+是否正确: False
+
+样本 1189:
+问题: What could you use to get to some airplanes?
+预测: taxi
+正确答案: taxi
+是否正确: True
+
+样本 1190:
+问题: What happens when driving?
+预测: wheels turning
+正确答案: wheels turning
+是否正确: True
+
+样本 1191:
+问题: What are our bodies doing after having food?
+预测: digesting
+正确答案: digesting
+是否正确: True
+
+样本 1192:
+问题: Why would one try to avoid work?
+预测: malaise
+正确答案: malaise
+是否正确: True
+
+样本 1193:
+问题: What do you do in order to fly in airplane?
+预测: buy tickets
+正确答案: buy tickets
+是否正确: True
+
+样本 1194:
+问题: What is another name for the color of the fur of a dog with light colored fur?
+预测: fair
+正确答案: fair
+是否正确: True
+
+样本 1195:
+问题: Sally was bored because she didn't like the junk that was on what?
+预测: television
+正确答案: television
+是否正确: True
+
+样本 1196:
+问题: The lion sensed his competitor was timid, so what attitude did the lion take?
+预测: aggressive
+正确答案: aggressive
+是否正确: True
+
+样本 1197:
+问题: John felt a snake slither over him as he rested.  He was afraid to raise his covers for fear of startling it.  Where might he be?
+预测: bedroom
+正确答案: bedroom
+是否正确: True
+
+样本 1198:
+问题: Where can you find a place to eat in an urban area close to local nightlife?
+预测: downtown
+正确答案: downtown
+是否正确: True
+
+样本 1199:
+问题: You have to a lot of thinking while studying a new subject, but it is how you gain what?
+预测: knowledge
+正确答案: knowledge
+是否正确: True
+
+样本 1200:
+问题: How will you communicate if you are far away from who you want to communicate with?
+预测: send email
+正确答案: send email
+是否正确: True
+
+样本 1201:
+问题: Why would you not trust your friends after chatting with friends?
+预测: coughing
+正确答案: lie
+是否正确: False
+
+样本 1202:
+问题: He came from old money and had a fortune, but he made new money making shrewd trades where?
+预测: stock market
+正确答案: stock market
+是否正确: True
+
+样本 1203:
+问题: Animals make up a large part of the?
+预测: ecosystem
+正确答案: ecosystem
+是否正确: True
+
+样本 1204:
+问题: At a shop what can you buy to put your spare unused things?
+预测: cardboard box
+正确答案: container
+是否正确: False
+
+样本 1205:
+问题: A person with digestion issues eats a meat-filled breakfast, what does he feel?
+预测: heartburn
+正确答案: heartburn
+是否正确: True
+
+样本 1206:
+问题: What is a prisoner sentenced to do?
+预测: become a hairdresser
+正确答案: do time
+是否正确: False
+
+样本 1207:
+问题: Jesse  enjoyed remembering the past because he helped him understand it.  And understanding the past helped him with doing what?
+预测: nostalgia
+正确答案: being prepared
+是否正确: False
+
+样本 1208:
+问题: David watched some nesting birds using his binoculars while on vacation.  Where might David be?.
+预测: countryside
+正确答案: forest
+是否正确: False
+
+样本 1209:
+问题: Where would you find many varieties of plants including a rosebush?
+预测: backyard
+正确答案: beautiful garden
+是否正确: False
+
+样本 1210:
+问题: If I did not have a rosebush, where would I get one?
+预测: garden center
+正确答案: garden center
+是否正确: True
+
+样本 1211:
+问题: What does a person with a what likely do?
+预测: electrical circuit
+正确答案: know what time
+是否正确: False
+
+样本 1212:
+问题: What are cats often known for?
+预测: sharp claws
+正确答案: sharp claws
+是否正确: True
+
+样本 1213:
+问题: As he looked out the window, he knew the landing was happening soon, and it made him nervous, but where would he be soon?
+预测: airport
+正确答案: airport
+是否正确: True
+
+样本 1214:
+问题: Where can you find a dogs house?
+预测: faithful
+正确答案: found outside
+是否正确: False
+
+样本 1215:
+问题: Tweed is a rare fabric in modern clothing, what brand should I look for when buying it?
+预测: eddie bauer
+正确答案: eddie bauer
+是否正确: True
+
+样本 1216:
+问题: If you really wanted a grape, where would you go to get it?
+预测: fruit stand
+正确答案: fruit stand
+是否正确: True
+
+样本 1217:
+问题: What would you do to a rock when climb up a cliff?
+预测: falling
+正确答案: grab
+是否正确: False
+
+样本 1218:
+问题: His compressor needed a new hose, where did he go?
+预测: hardware store
+正确答案: hardware store
+是否正确: True
+
+样本 1219:
+问题: The man closed his eyes as the music played, what effect did the music have?
+预测: enjoyable
+正确答案: soothing
+是否正确: False
+
+样本 1220:
+问题: Setting up framing, truss and beam are some of the first steps in what?
+预测: new construction
+正确答案: new construction
+是否正确: True
+
+样本 1221:
+问题: What is another name for a disk for storing information?
+预测: computer hard drive
+正确答案: computer hard drive
+是否正确: True
+
